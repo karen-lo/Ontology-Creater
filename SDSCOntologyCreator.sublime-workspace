@@ -1,0 +1,1246 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"lengt",
+				"lengthPenalty"
+			],
+			[
+				"num",
+				"numWords"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"has",
+				"hasNumber"
+			],
+			[
+				"first",
+				"firstWordStopList"
+			],
+			[
+				"fun",
+				"func"
+			],
+			[
+				"Con",
+				"ContactView"
+			],
+			[
+				"con",
+				"contact"
+			],
+			[
+				"create",
+				"createClass"
+			],
+			[
+				"ContactItem",
+				"ContactItem"
+			],
+			[
+				"Conta",
+				"ContactForm"
+			],
+			[
+				"creat",
+				"createElement"
+			],
+			[
+				"prop",
+				"propTypes"
+			],
+			[
+				"conta",
+				"contactItemElements"
+			],
+			[
+				"rev",
+				"revWordFreq"
+			],
+			[
+				"re",
+				"revWordFreq"
+			],
+			[
+				"word",
+				"wordFreq"
+			],
+			[
+				"prob",
+				"probForLetter"
+			],
+			[
+				"pro",
+				"probForLetter"
+			],
+			[
+				"probL",
+				"probLgivW"
+			],
+			[
+				"ed",
+				"evidence"
+			],
+			[
+				"wor",
+				"wordLength"
+			],
+			[
+				"probF",
+				"probForLetter"
+			],
+			[
+				"evid",
+				"evidence"
+			],
+			[
+				"por",
+				"probEgivW"
+			],
+			[
+				"key",
+				"keylist"
+			],
+			[
+				"get",
+				"getKey"
+			],
+			[
+				"tem",
+				"termhood"
+			],
+			[
+				"fre",
+				"freqAsSubstring"
+			],
+			[
+				"freq",
+				"freqInCorpus"
+			],
+			[
+				"length",
+				"lengthOfThis"
+			],
+			[
+				"Hash",
+				"HashMap"
+			],
+			[
+				"entr",
+				"entry"
+			],
+			[
+				"Prin",
+				"PrintWriter"
+			],
+			[
+				"char",
+				"charToStrip"
+			],
+			[
+				"temp",
+				"tempList"
+			],
+			[
+				"pr",
+				"println"
+			],
+			[
+				"entry",
+				"entrySet"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"ether",
+				"ethertype_ip"
+			],
+			[
+				"un",
+				"uint32_t"
+			],
+			[
+				"uint",
+				"uint32_t"
+			],
+			[
+				"lon",
+				"longest_mask"
+			],
+			[
+				"NP",
+				"NPList"
+			],
+			[
+				"noun",
+				"nounphrase"
+			],
+			[
+				"sr",
+				"sr_ip_hdr_t"
+			],
+			[
+				"icm",
+				"icmp_pointer"
+			],
+			[
+				"icmp",
+				"icmp_pointer"
+			],
+			[
+				"for",
+				"for_this_router"
+			],
+			[
+				"ip_",
+				"ip_hdr"
+			],
+			[
+				"ip",
+				"ip_sum"
+			],
+			[
+				"eth",
+				"eth_hdr"
+			],
+			[
+				"arp",
+				"arp_op_request"
+			],
+			[
+				"packet",
+				"packet_pointer"
+			],
+			[
+				"sr_arp",
+				"sr_arp_hdr_t"
+			],
+			[
+				"packe",
+				"packet_pointer"
+			],
+			[
+				"pacek",
+				"packet_pointer"
+			],
+			[
+				"wri",
+				"writefile"
+			],
+			[
+				"bakc",
+				"background-color"
+			],
+			[
+				"random",
+				"randomColor"
+			],
+			[
+				"r",
+				"randomY"
+			],
+			[
+				"rando",
+				"randomX"
+			],
+			[
+				"shape",
+				"shapeID"
+			],
+			[
+				"shap",
+				"shapeID"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"j",
+				"j"
+			],
+			[
+				"arr",
+				"arr"
+			],
+			[
+				"s",
+				"s"
+			],
+			[
+				"pref",
+				"preferredTermParent"
+			],
+			[
+				"one",
+				"oneEntry"
+			],
+			[
+				"prefer",
+				"preferredTerm"
+			],
+			[
+				"sorted",
+				"sortedKeywords"
+			],
+			[
+				"sorte",
+				"sortedKeywords"
+			],
+			[
+				"prefe",
+				"preferredTerm"
+			],
+			[
+				"els",
+				"elsstURL"
+			],
+			[
+				"parent",
+				"parentD"
+			],
+			[
+				"prase",
+				"parseData"
+			],
+			[
+				"par",
+				"parseData"
+			],
+			[
+				"pre",
+				"preferredTermURL"
+			],
+			[
+				"sor",
+				"sortedKeywords"
+			],
+			[
+				"keyw",
+				"keywords"
+			],
+			[
+				"chun",
+				"chunkURL"
+			],
+			[
+				"chu",
+				"chunkValues"
+			],
+			[
+				"url",
+				"urlencode"
+			],
+			[
+				"urll",
+				"urllib"
+			],
+			[
+				"list",
+				"listOfDicts"
+			],
+			[
+				"perfe",
+				"preferredTerm"
+			],
+			[
+				"start",
+				"start_url"
+			],
+			[
+				"tr",
+				"True"
+			],
+			[
+				"per",
+				"perferredTerm"
+			],
+			[
+				"page",
+				"page_source"
+			],
+			[
+				"p",
+				"perferredTerm"
+			],
+			[
+				"parse",
+				"parseTree"
+			],
+			[
+				"wr",
+				"wordlist"
+			],
+			[
+				"no",
+				"noBracket"
+			],
+			[
+				"write",
+				"writefile"
+			],
+			[
+				"is",
+				"isNumber"
+			],
+			[
+				"keywor",
+				"keywords"
+			],
+			[
+				"urllib",
+				"urllib2"
+			],
+			[
+				"jsonfile",
+				"jsonfile"
+			],
+			[
+				"sep",
+				"sepStr"
+			],
+			[
+				"so",
+				"sortedWordFreq"
+			],
+			[
+				"igno",
+				"ignoreString"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "nlp/stanford-corenlp-full-2016-10-31/NounSearch.java",
+			"settings":
+			{
+				"buffer_size": 9745,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "CombineHashmaps.java",
+			"settings":
+			{
+				"buffer_size": 3185,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "RankingNp.java",
+			"settings":
+			{
+				"buffer_size": 4822,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "stoplist.txt",
+			"settings":
+			{
+				"buffer_size": 2971,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "firstWordStopList.txt",
+			"settings":
+			{
+				"buffer_size": 175,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "termhood.txt",
+			"settings":
+			{
+				"buffer_size": 3874385,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "termhood2.txt",
+			"settings":
+			{
+				"buffer_size": 3874385,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ranking.txt",
+			"settings":
+			{
+				"buffer_size": 5107815,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "overall_hashmap.txt",
+			"settings":
+			{
+				"buffer_size": 3875205,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "SDSC\nwhat should i even send to scigraph ontology\npointers:\n- case a: sending titles to ontology \n- case b:take 4/5 use cases from ddh program, find columns with specific noun, mine papers\n\n1. come up with relevant terms to go in ontology\n\t- how to get the terms\n\t\ta. you already have a dictionary of terms to use\n\t\t\ti. the index\n\t\t\tii. find the terms that are statistically relevant, corporus based statistical methods\n\n\t\tb. \n2. then worry about relationships\n\n\nTODO: read c value paper, then read other paper, then dataset from coral reef, apply to that corpus\n\n1. use part-of-speech tagging from nlp\n2. filter for noun phrases, will get nested things like: the president of the united states\n\ta. throw away things from stop list, from adam\n3. now we see what goes into ontology, we have repititions\n\ta. frequency of single string\n\tb. frequency of longer candidate terms\n\tc. number of these longer candidate terms\n\td. length of candidate string\n\n\teigenvector valuen\n\n\nfirst 100, noun phrases\ntask 0 - turn abstract to text, throw away line with '@'\ntask 1 - core nlp, grab noun phrases\ntask 2 - take abstracts, find terms that are already known\n\n\nkeep adjectives\nkeep both inner and outer nounphrase\nremove pronouns\n\nkeep nounphrases, nounphrases within nounphrases, do not extract anything, remove pronouns, keep duplicates\nhashmap, word to frequency\nprint out\nlength and proposition penalties\ncompute weight based on second paper\nontology quality\n\nPhone Number: 858-534-3693 \n858-366-3393 text aside from time 3-5\n\nMean time: get about 20 abstract results and start making the ranks\n-----------------------------------------------------------------------------------------\n\ntake out articles and pronouns that are the first characters\npunctuation, remove, keep within one phrase\nrank them, have a threshhold, a sharp knee, keep a list of those above and below threshold\nknee - the point between the small group and the big group, highest derivative, derivative = 0, change the sign, plot all the ranks, histogram of the ranks, in buckets\n\npython - abstract cleaner, abstract splitter\njava - pos tagger\npython - hashmap stitching, ranking\n\ncapitalization? all capitalized or all lover cased <--camel\n\nremove \"Abstract\"\nadd stop word list, remove \nstretch with sigmoid\n\n-----------------------------------------------------------------------------------------\n\n\tfix scaling\n\treimplement with cfinder\nX - throw out 2 letter\n\tfix words broken by line\nX - (stoplist) and (stoplist) -> throw away (first word stop list) (check if rest of phrase is in stoplist)\nX -\tlength penalty of 4",
+			"file": "PlanOfAttack.txt",
+			"file_size": 2651,
+			"file_write_time": 131380878933529992,
+			"settings":
+			{
+				"buffer_size": 2582,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Karen/Google Drive/Internship/SDSC/Ontology Creater",
+		"/C/Users/Karen/Google Drive/Internship/SDSC/Ontology Creater/nlp",
+		"/C/Users/Karen/Google Drive/Internship/SDSC/Ontology Creater/nlp/stanford-corenlp-full-2016-10-31"
+	],
+	"file_history":
+	[
+		"/C/Users/Karen/Google Drive/Internship/SDSC/Ontology Creater/nlp/stanford-corenlp-full-2016-10-31/StanfordCoreNlpDemo.java",
+		"/C/Users/Karen/Downloads/TESTS_2.ml",
+		"/C/Users/Karen/Google Drive/Internship/SDSC/Ontology Creater/output.txt",
+		"/C/Users/Karen/Google Drive/Internship/SDSC/Ontology Creater/ranking.txt",
+		"/C/Users/Karen/Google Drive/Internship/SDSC/Ontology Creater/overall_hashmap.txt",
+		"/C/Users/Karen/Google Drive/Internship/SDSC/Ontology Creater/ICRS-2016-Abstract-Book.txt",
+		"/C/Users/Karen/Google Drive/Internship/SDSC/Ontology Creater/stoplist.txt",
+		"/C/Users/Karen/Google Drive/Internship/SDSC/Ontology Creater/ranking2.txt",
+		"/C/Users/Karen/Google Drive/Internship/SDSC/Ontology Creater/Termhood.java",
+		"/C/Users/Karen/Google Drive/Internship/Interview Prep/Coding Questions.java",
+		"/C/Users/Karen/Desktop/CSE112Team12/index.js",
+		"/C/Users/Karen/Downloads/authentication-in-react-apps-master/part-1-creating-components/client/src/app.jsx",
+		"/C/Users/Karen/Desktop/CSE112Team12/react.html",
+		"/C/Users/Karen/Desktop/CSE112Team12/client/src/app.jsx",
+		"/C/Users/Karen/Desktop/CSE112Team12/client/src/routes.js",
+		"/C/Users/Karen/Desktop/CSE112Team12/client/src/components/LoginForm.jsx",
+		"/C/Users/Karen/Desktop/CSE112Team12/client/src/containers/SignUpPage.jsx",
+		"/C/Users/Karen/Desktop/CSE112Team12/client/src/components/SignUpForm.jsx",
+		"/C/Users/Karen/Desktop/CSE112Team12/server/static/index.html",
+		"/C/Users/Karen/Desktop/CSE112Team12/phone.html",
+		"/C/Users/Karen/Desktop/CSE112Team12/webpack.config.js",
+		"/C/Users/Karen/Desktop/CSE112Team12/client/src/components/Base.jsx",
+		"/C/Users/Karen/Desktop/CSE112Team12/client/src/components/HomePage.jsx",
+		"/C/Users/Karen/Desktop/CSE112Team12/client/src/containers/Base.jsx",
+		"/C/Users/Karen/Desktop/CSE112Team12/client/src/containers/LoginPage.jsx",
+		"/C/Users/Karen/Desktop/CSE112Team12/client/dist/js/app.js",
+		"/C/Users/Karen/Desktop/CSE112Team12/css/style.css",
+		"/C/Users/Karen/Desktop/CSE112Team12/package.json",
+		"/C/Users/Karen/Desktop/CSE112Team12/node_modules/react-dom/dist/react-dom.min.js",
+		"/C/Users/Karen/Desktop/CSE112Team12/node_modules/react-dom/dist/react-dom.js",
+		"/C/Users/Karen/Desktop/CSE112Team12/node_modules/react-dom/test-utils.js",
+		"/C/Users/Karen/Desktop/CSE112Team12/node_modules/react-dom/server.js",
+		"/C/Users/Karen/Desktop/CSE112Team12/node_modules/react-dom/index.js",
+		"/C/Users/Karen/Desktop/CSE112Team12/node_modules/react-dom/lib/ReactDOM.js",
+		"/C/Users/Karen/Desktop/CSE112Team12/styles.html",
+		"/C/Users/Karen/Desktop/hangman.py",
+		"/C/Users/Karen/Desktop/5letters.txt",
+		"/C/Users/Karen/Google Drive/Internship/SDSC/Ontology Creater/RankingNpP1.py",
+		"/C/Users/Karen/Google Drive/Internship/SDSC/Ontology Creater/RankingNpP2.py",
+		"/C/Users/Karen/Google Drive/Internship/SDSC/Ontology Creater/runNLP.py",
+		"/C/Users/Karen/Google Drive/Internship/SDSC/Ontology Creater/termhood2.txt",
+		"/C/Users/Karen/Google Drive/Internship/SDSC/Ontology Creater/hashmap1.txt",
+		"/C/Users/Karen/Google Drive/Internship/SDSC/Ontology Creater/RankingNp.java",
+		"/C/Users/Karen/Google Drive/Internship/SDSC/Ontology Creater/nlp/stanford-corenlp-full-2016-10-31/RankingNp.java",
+		"/C/Users/Karen/Google Drive/Internship/SDSC/Ontology Creater/combineHashMaps.py",
+		"/C/Users/Karen/Downloads/hw1.ml",
+		"/C/Users/Karen/Google Drive/Internship/SDSC/Ontology Creater/combineHashmaps.java",
+		"/C/Users/Karen/Google Drive/Internship/SDSC/Ontology Creater/output25.txt",
+		"/C/Users/Karen/Google Drive/Internship/SDSC/Ontology Creater/output11.txt",
+		"/C/Users/Karen/Google Drive/Internship/SDSC/Ontology Creater/output10.txt",
+		"/C/Users/Karen/Google Drive/Internship/SDSC/Ontology Creater/output9.txt",
+		"/C/Users/Karen/Google Drive/Internship/SDSC/Ontology Creater/output8.txt",
+		"/C/Users/Karen/Google Drive/Internship/SDSC/Ontology Creater/output7.txt",
+		"/C/Users/Karen/Google Drive/Internship/SDSC/Ontology Creater/output6.txt",
+		"/C/Users/Karen/Google Drive/Internship/SDSC/Ontology Creater/output5.txt",
+		"/C/Users/Karen/Google Drive/Internship/SDSC/Ontology Creater/output4.txt",
+		"/C/Users/Karen/Google Drive/Internship/SDSC/Ontology Creater/output3.txt",
+		"/C/Users/Karen/Google Drive/Internship/SDSC/Ontology Creater/output2.txt",
+		"/C/Users/Karen/Google Drive/Internship/SDSC/Ontology Creater/output1.txt",
+		"/C/Users/Karen/Google Drive/Internship/SDSC/Ontology Creater/test.txt",
+		"/C/Users/Karen/Google Drive/Internship/SDSC/Ontology Creater/temphash.txt",
+		"/C/Users/Karen/Google Drive/Internship/SDSC/Ontology Creater/temp.txt",
+		"/C/Users/Karen/Google Drive/Internship/SDSC/Ontology Creater/abstractCleaner.py",
+		"/C/Users/Karen/Google Drive/Internship/SDSC/Ontology Creater/RankingNp.py",
+		"/C/Users/Karen/Google Drive/Internship/SDSC/Ontology Creater/hashmap2.txt",
+		"/C/Users/Karen/Google Drive/Internship/SDSC/Ontology Creater/hashmap.txt",
+		"/C/Users/Karen/Google Drive/Internship/SDSC/Ontology Creater/5.txt",
+		"/C/Users/Karen/Google Drive/Internship/SDSC/Ontology Creater/hashmap4.txt",
+		"/C/Users/Karen/Google Drive/Internship/SDSC/Ontology Creater/FixedICRS.txt",
+		"/C/Users/Karen/Google Drive/Internship/SDSC/Ontology Creater/first10.txt",
+		"/C/Users/Karen/Google Drive/Internship/SDSC/Ontology Creater/1.txt",
+		"/C/Users/Karen/Google Drive/Internship/SDSC/Ontology Creater/abstractSplitter.py",
+		"/C/Users/Karen/Google Drive/Internship/SDSC/Ontology Creater/1eleventh.txt",
+		"/C/Users/Karen/Google Drive/Internship/SDSC/Ontology Creater/modified.txt",
+		"/C/Users/Karen/Google Drive/Internship/SDSC/Ontology Creater/modified2.txt",
+		"/C/Users/Karen/Google Drive/Internship/SDSC/Ontology Creater/firstquin3.txt",
+		"/C/Users/Karen/Google Drive/Internship/SDSC/Ontology Creater/firstquin2.txt",
+		"/C/Users/Karen/Google Drive/Internship/SDSC/Ontology Creater/firstquin.txt",
+		"/C/Users/Karen/Google Drive/Internship/SDSC/Ontology Creater/modified1.txt",
+		"/C/Users/Karen/Documents/MobaXterm/slash/RemoteFiles/2295610_3_0/sr_router.c",
+		"/C/Users/Karen/Documents/MobaXterm/slash/RemoteFiles/1639998_3_0/sr_router.c",
+		"/C/Users/Karen/Google Drive/Internship/SDSC/Summer/scigraphKeywords.py",
+		"/C/Users/Karen/Google Drive/Internship/SDSC/Summer/webcrawler/runCrawler.py",
+		"/C/Users/Karen/Downloads/vc_2_0_ucsd_17_01_17_20_Mar_4_2017_12-48-10pm_PST_submitted_last/qil156@ucsd.edu/PSA7_Sounds/submission_1/Picture.java",
+		"/C/Users/Karen/Downloads/vc_2_0_ucsd_17_01_17_20_Mar_4_2017_12-48-10pm_PST_submitted_last/zhc178@ucsd.edu/PSA7_Sounds/submission_2/Picture.java",
+		"/C/Users/Karen/Downloads/vc_2_0_ucsd_17_01_17_20_Mar_4_2017_12-48-10pm_PST_submitted_last/zhc178@ucsd.edu/PSA7_Sounds/submission_2/PictureFlipTester.java",
+		"/C/Users/Karen/Documents/MobaXterm/slash/RemoteFiles/67460_4_9/sr_router.c",
+		"/C/Users/Karen/Documents/MobaXterm/slash/RemoteFiles/67460_4_8/sr_protocol.h",
+		"/C/Users/Karen/Documents/MobaXterm/slash/RemoteFiles/67460_3_4/sr_protocol.h",
+		"/C/Users/Karen/Documents/MobaXterm/slash/RemoteFiles/67460_3_1/sr_router.c",
+		"/C/Users/Karen/Downloads/vc_2_0_ucsd_17_01_17_20_Mar_4_2017_12-48-10pm_PST_submitted_last/zij007@ucsd.edu/PSA7_Sounds/submission_1/PSA7A.java",
+		"/C/Users/Karen/Downloads/vc_2_0_ucsd_17_01_17_20_Mar_4_2017_12-48-10pm_PST_submitted_last/zij007@ucsd.edu/PSA7_Sounds/submission_1/Picture.java",
+		"/C/Users/Karen/Downloads/vc_2_0_ucsd_17_01_17_20_Mar_4_2017_12-48-10pm_PST_submitted_last/zij007@ucsd.edu/PSA7_Sounds/submission_1/Sound.java",
+		"/C/Users/Karen/Downloads/vc_2_0_ucsd_17_01_17_20_Mar_4_2017_12-48-10pm_PST_submitted_last/zij007@ucsd.edu/PSA7_Sounds/submission_1/PSA7PictureTester.java",
+		"/C/Users/Karen/Downloads/vc_2_0_ucsd_17_01_17_20_Mar_4_2017_12-48-10pm_PST_submitted_last/zij007@ucsd.edu/PSA7_Sounds/submission_1/PSA7B.java",
+		"/C/Users/Karen/Downloads/vc_2_0_ucsd_17_01_17_20_Mar_4_2017_12-48-10pm_PST_submitted_last/zhc178@ucsd.edu/PSA7_Sounds/submission_2/extracredit.txt",
+		"/C/Users/Karen/Downloads/vc_2_0_ucsd_17_01_17_20_Mar_4_2017_12-48-10pm_PST_submitted_last/zhc178@ucsd.edu/PSA7_Sounds/submission_2/Sound.java",
+		"/C/Users/Karen/Downloads/vc_2_0_ucsd_17_01_17_20_Mar_4_2017_12-48-10pm_PST_submitted_last/zhc178@ucsd.edu/PSA7_Sounds/submission_2/PSA7PictureTester.java",
+		"/C/Users/Karen/Downloads/vc_2_0_ucsd_17_01_17_20_Mar_4_2017_12-48-10pm_PST_submitted_last/zhc178@ucsd.edu/PSA7_Sounds/submission_2/PSA7B.java",
+		"/C/Users/Karen/Downloads/vc_2_0_ucsd_17_01_17_20_Mar_4_2017_12-48-10pm_PST_submitted_last/zhc178@ucsd.edu/PSA7_Sounds/submission_2/PSA7A.java",
+		"/C/Users/Karen/Downloads/vc_2_0_ucsd_17_01_17_20_Mar_4_2017_12-48-10pm_PST_submitted_last/yiw497@ucsd.edu/PSA7_Sounds/submission_1/PSA7PictureTester.java",
+		"/C/Users/Karen/Downloads/vc_2_0_ucsd_17_01_17_20_Mar_4_2017_12-48-10pm_PST_submitted_last/yiw497@ucsd.edu/PSA7_Sounds/submission_1/PSA7B.java",
+		"/C/Users/Karen/Downloads/vc_2_0_ucsd_17_01_17_20_Mar_4_2017_12-48-10pm_PST_submitted_last/yiw497@ucsd.edu/PSA7_Sounds/submission_1/PSA7A.java",
+		"/C/Users/Karen/Downloads/vc_2_0_ucsd_17_01_17_20_Mar_4_2017_12-48-10pm_PST_submitted_last/yiw497@ucsd.edu/PSA7_Sounds/submission_1/Sound.java",
+		"/C/Users/Karen/Downloads/vc_2_0_ucsd_17_01_17_20_Mar_4_2017_12-48-10pm_PST_submitted_last/yiw497@ucsd.edu/PSA7_Sounds/submission_1/Picture.java",
+		"/C/Users/Karen/Downloads/vc_2_0_ucsd_17_01_17_20_Mar_4_2017_12-48-10pm_PST_submitted_last/y9xiang@ucsd.edu/PSA7_Sounds/submission_2/PSA7A.java",
+		"/C/Users/Karen/Downloads/vc_2_0_ucsd_17_01_17_20_Mar_4_2017_12-48-10pm_PST_submitted_last/y9xiang@ucsd.edu/PSA7_Sounds/submission_2/Sound.java",
+		"/C/Users/Karen/Downloads/vc_2_0_ucsd_17_01_17_20_Mar_4_2017_12-48-10pm_PST_submitted_last/y9xiang@ucsd.edu/PSA7_Sounds/submission_2/Picture.java",
+		"/C/Users/Karen/Downloads/vc_2_0_ucsd_17_01_17_20_Mar_4_2017_12-48-10pm_PST_submitted_last/y9xiang@ucsd.edu/PSA7_Sounds/submission_2/PSA7B.java",
+		"/C/Users/Karen/Downloads/vc_2_0_ucsd_17_01_17_20_Mar_4_2017_12-48-10pm_PST_submitted_last/y9xiang@ucsd.edu/PSA7_Sounds/submission_2/PSA7PictureTester.java",
+		"/C/Users/Karen/Downloads/vc_2_0_ucsd_17_01_17_20_Mar_4_2017_12-48-10pm_PST_submitted_last/y9xiang@ucsd.edu/PSA7_Sounds/submission_2/.vocsubmit.txt",
+		"/C/Users/Karen/Downloads/vc_2_0_ucsd_17_01_17_20_Mar_4_2017_12-48-10pm_PST_submitted_last/y9xiang@ucsd.edu/PSA7_Sounds/submission_2/.vocStudentSubmissionReport.txt",
+		"/C/Users/Karen/Downloads/vc_2_0_ucsd_17_01_17_20_Mar_4_2017_12-48-10pm_PST_submitted_last/skuwayam@ucsd.edu/PSA7_Sounds/submission_1/PSA7A.java",
+		"/C/Users/Karen/Downloads/vc_2_0_ucsd_17_01_17_20_Mar_4_2017_12-48-10pm_PST_submitted_last/skuwayam@ucsd.edu/PSA7_Sounds/submission_1/Sound.java",
+		"/C/Users/Karen/Downloads/vc_2_0_ucsd_17_01_17_20_Mar_4_2017_12-48-10pm_PST_submitted_last/skuwayam@ucsd.edu/PSA7_Sounds/submission_1/Picture.java",
+		"/C/Users/Karen/Downloads/vc_2_0_ucsd_17_01_17_20_Mar_4_2017_12-48-10pm_PST_submitted_last/skuwayam@ucsd.edu/PSA7_Sounds/submission_1/PSA7PictureTester.java",
+		"/C/Users/Karen/Downloads/vc_2_0_ucsd_17_01_17_20_Mar_4_2017_12-48-10pm_PST_submitted_last/skuwayam@ucsd.edu/PSA7_Sounds/submission_1/PSA7B.java",
+		"/C/Users/Karen/Downloads/vc_2_0_ucsd_17_01_17_20_Mar_4_2017_12-48-10pm_PST_submitted_last/skuwayam@ucsd.edu/PSA7_Sounds/submission_1/PictureAnswer.java",
+		"/C/Users/Karen/Downloads/vc_2_0_ucsd_17_01_17_20_Mar_4_2017_12-48-10pm_PST_submitted_last/sar020@ucsd.edu/PSA7_Sounds/submission_1/PSA7A.java",
+		"/C/Users/Karen/Downloads/vc_2_0_ucsd_17_01_17_20_Mar_4_2017_12-48-10pm_PST_submitted_last/sar020@ucsd.edu/PSA7_Sounds/submission_1/Picture.java",
+		"/C/Users/Karen/Downloads/vc_2_0_ucsd_17_01_17_20_Mar_4_2017_12-48-10pm_PST_submitted_last/sar020@ucsd.edu/PSA7_Sounds/submission_1/Sound.java",
+		"/C/Users/Karen/Downloads/vc_2_0_ucsd_17_01_17_20_Mar_4_2017_12-48-10pm_PST_submitted_last/sar020@ucsd.edu/PSA7_Sounds/submission_1/PSA7B.java",
+		"/C/Users/Karen/Downloads/vc_2_0_ucsd_17_01_17_20_Mar_4_2017_12-48-10pm_PST_submitted_last/sar020@ucsd.edu/PSA7_Sounds/submission_1/PSA7PictureTester.java",
+		"/C/Users/Karen/Downloads/vc_2_0_ucsd_17_01_17_20_Mar_4_2017_12-48-10pm_PST_submitted_last/qil156@ucsd.edu/PSA7_Sounds/submission_1/PSA7A.java",
+		"/C/Users/Karen/Downloads/vc_2_0_ucsd_17_01_17_20_Mar_4_2017_12-48-10pm_PST_submitted_last/qil156@ucsd.edu/PSA7_Sounds/submission_1/Sound.java",
+		"/C/Users/Karen/Downloads/vc_2_0_ucsd_17_01_17_20_Mar_4_2017_12-48-10pm_PST_submitted_last/qil156@ucsd.edu/PSA7_Sounds/submission_1/PSA7B.java",
+		"/C/Users/Karen/Downloads/vc_2_0_ucsd_17_01_17_20_Mar_4_2017_12-48-10pm_PST_submitted_last/qil156@ucsd.edu/PSA7_Sounds/submission_1/PSA7PictureTester.java",
+		"/C/Users/Karen/Downloads/vc_2_0_ucsd_17_01_17_20_Mar_4_2017_12-48-10pm_PST_submitted_last/nkeodara@ucsd.edu/PSA7_Sounds/submission_2/PSA7A.java"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"and",
+			"application",
+			"4",
+			"5",
+			"6",
+			"7",
+			"8",
+			"9",
+			"12",
+			"11",
+			"10",
+			"12",
+			"11",
+			"10",
+			"14",
+			"15",
+			"10",
+			"11",
+			"12",
+			"13",
+			"14",
+			"15",
+			"16",
+			"type",
+			"function",
+			"many study",
+			"many studies",
+			"impact",
+			"context",
+			"document",
+			"feedback",
+			"need",
+			"criteria",
+			"model",
+			"size",
+			"sizw",
+			"effect",
+			"trend",
+			"feature",
+			"contribution",
+			"local",
+			"data",
+			"space",
+			"network",
+			"experiment",
+			"source",
+			"many",
+			"method",
+			"effort",
+			"scale",
+			"issue",
+			"action",
+			"value",
+			"error",
+			"response",
+			"Phaeophytin values",
+			"user",
+			"12",
+			"68",
+			"67",
+			"61",
+			"59",
+			"58",
+			"56",
+			"55",
+			"49",
+			"41",
+			"37",
+			"34",
+			"31",
+			"23",
+			"22",
+			"19",
+			"17",
+			"16",
+			"11",
+			"0",
+			"9",
+			"7 ",
+			"7",
+			"67",
+			"1",
+			"RRB",
+			"sub-bleaching",
+			"sub-bleaching\n",
+			"a protective\n",
+			"a protective , sub-bleaching stress\n",
+			"a protective , sub-bleaching stress",
+			"L",
+			"LH",
+			"S '",
+			"s'",
+			"s '",
+			"corals '",
+			"s '",
+			"x",
+			"fix",
+			"biophysical larval dispersal model",
+			"reefs",
+			"the response",
+			"the sharks",
+			"a wide variety of systems",
+			"it",
+			"summer",
+			"genicula",
+			"p",
+			"The rock quarry",
+			"COMPARATIVE ANALYSIS OF FORAGING BEHAVIOR",
+			"space",
+			"coral reef",
+			"coral species",
+			"Gene",
+			"six steel pins",
+			"the stream plume",
+			"stream effluent, which carries high loads of sediment from a quarry, while the other side",
+			"stream effluent, which carries high loads of sediment from a quarry , while the other side",
+			"stream effluent , which carries high loads of sediment from a quarry , while the other side",
+			".h",
+			"document",
+			"count",
+			"war",
+			"vote",
+			"will",
+			"it",
+			"version",
+			"ECU",
+			"ecu",
+			"erm"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "C:\\Users\\Karen\\Google Drive\\Internship\\SDSC\\Ontology Creater"
+		},
+		{
+			"path": "C:\\Users\\Karen\\Google Drive\\College\\Textbooks\\SPRING2017\\CSE150"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "nlp/stanford-corenlp-full-2016-10-31/NounSearch.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9745,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8673,
+								8673
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4525.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "CombineHashmaps.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3185,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "RankingNp.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4822,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2810,
+								2810
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 249.0,
+						"translation.y": 1414.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "stoplist.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2971,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2889,
+								2889
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 6466.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 4,
+					"file": "firstWordStopList.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 175,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								175,
+								175
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "termhood.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3874385,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4436,
+								4441
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "termhood2.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3874385,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								17218,
+								17218
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 527.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "ranking.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5107815,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "overall_hashmap.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3875205,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								41001,
+								41001
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 19494.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "PlanOfAttack.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2582,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2425,
+								2425
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 807.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 625.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Karen\\Documents\\karen-lo.github.io\\webapp.sublime-project"
+			]
+		],
+		"width": 475.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 188.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
