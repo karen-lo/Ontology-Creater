@@ -22,4 +22,9 @@ $ make ranking
         [*...*]
 
 ### Step Four: SciGraph API - Existing Noun Phrase
-1. 
+1. Run `JaccardDeterminer.java`
+2. Output: [*name of dataset*]\_in\_ontology.tsv
+	- [*term*]	[*Jaccard value*]	[*Cinergi term*]
+	If Jaccard value = 1.0, then there is an exact match in Cinergi
+3. Output: [*name of dataset*]\_unique.tsv
+	- [*term*]	[*Jaccard value*]	[*closest Cinergi term*]
