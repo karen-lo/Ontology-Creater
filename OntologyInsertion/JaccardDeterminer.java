@@ -33,7 +33,7 @@ public class JaccardDeterminer {
 
         PrintWriter in_ontology = new PrintWriter(PATH + "ICRS_in_ontology.tsv", "UTF-8");
         PrintWriter not_in_ontology = new PrintWriter(PATH + "ICRS_unique.tsv", "UTF-8");
-        in_ontology.println("MetPetDB term\tsimilarity\tcinergi term");
+        in_ontology.println("ICRS term\tsimilarity\tcinergi term");
         not_in_ontology.println("ICRS term\tsimilarity\tclosest cinergi term");
 
         BufferedReader br = null;
