@@ -290,6 +290,7 @@ public class NounSearch {
 
         long endTime   = System.currentTimeMillis();
         long totalTime = endTime - startTime;
-        System.out.println(totalTime);
+        totalTime = totalTime/1000/60;
+        System.out.println(totalTime + " mins");
     }
 }

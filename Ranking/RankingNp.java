@@ -9,18 +9,24 @@ import java.util.regex.Matcher;
 // Assign Ranking to Nounphrases in Hashmap
 public class RankingNp {
 
-    /** Usage: java RankingNp Hashmap outfile termfile **/
+    static final int TERMHOOD_CUTOFF = 185;
+
+    /** Usage: java RankingNp Hashmap outfile termfile wordlistfile **/
     public static void main(String args[]) throws IOException {
         long startTime = System.currentTimeMillis();
 
         PrintWriter out;
         PrintWriter termfile;
-        if (args.length == 3) {
+        PrintWriter wordlist;
+
+        if (args.length == 4) {
             out = new PrintWriter(args[1]);
             termfile = new PrintWriter(args[2]);
+            wordlist = new PrintWriter(args[3]);
         } else {
             out = new PrintWriter(System.out);
             termfile = new PrintWriter(System.out);
+            wordlist = new PrintWriter(System.out);
             System.out.println("Wrong usage.");
             System.exit(0);
         }
@@ -146,14 +152,25 @@ public class RankingNp {
             ArrayList<String> strings = entry.getValue();
             termfile.println(entry.getKey() + " - string count: " + entry.getValue().size());
 
-            for(String s : strings) {
-                termfile.println("\t" + s);
+            if(entry.getKey() >= TERMHOOD_CUTOFF) {
+                for(String s : strings) {
+                    termfile.println("\t" + s);
+                    wordlist.println(s);
+                }
+            } else {
+                for(String s : strings) {
+                    termfile.println("\t" + s);
+                }
             }
         }
 
+        termfile.close();
+        wordlist.close();
+
         long endTime   = System.currentTimeMillis();
         long totalTime = endTime - startTime;
-        System.out.println(totalTime);
+        totalTime = totalTime/1000/60;
+        System.out.println(totalTime + " mins");
     }
 
     public static double scale(double x) {
