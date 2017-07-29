@@ -1,0 +1,1000 @@
+to a decline in coral health that is observed as a rise in the incidence of coral bleaching
+and coral disease. In this study, we examine the effect of thermal stress on the natural
+microbial community associated with the outer mucus layer and tissues of the coral,
+Acropora digitifera. High-throughput sequencing of the 16S rRNA V4 hypervariable region revealed that prolonged exposure to thermal stress causes a shift in the diversity of
+the coral microbial community. Notably, there is an increase in the population of bacteria
+often found associated with diseased and stressed corals. These changes may correlate
+with shifts in the metabolic function of the coral holobiont and may have detrimental
+effects on the health and resilience of the coral. Taken together, our findings highlight the
+impact of elevated seawater temperature on the bacterial composition and diversity in
+corals and the effects of this on host metabolism.
+
+signs of coral recovery. Fish abundance and biomass continued to increase until the
+recent surveys. Increase can be attributed to the protection of the reefs where target or
+commercially important species contributed much of the increase. Herbivore biomass
+was also found to be increasing. Hence, protection is essential to increase resiliency from
+typhoons and other climate change-related disturbances, which are expected to be more
+frequent and severe in the future.
+
+A VICIOUS CORAL REEF PREDATOR: MORPHOLOGICAL SPECIALIZATION
+BROADENS THE DIET OF A MANTIS SHRIMP (Abstract ID: 29795)
+Mantis shrimp are ubiquitous predators in tropical coral reefs. “Smasher” mantis shrimp
+have specialized predatory appendages that produce among the fastest, most powerful
+strikes ever reported in the animal kingdom. These forceful strikes are particularly
+effective at breaking hard-shelled prey, such as snails and hermit crabs, and have a
+large impact on the abundances of these prey. However, some anecdotal observations
+suggest that smashers also consume soft-bodied, evasive prey. We examined the diet
+of a Caribbean coral reef flat smasher, Neogonodactylus bredini. We coupled studies of
+prey abundance in the field and feeding behavior experiments to inform a stable isotope
+analysis of diet using a Bayesian mixing model (MixSIAR). Unexpectedly, we found that
+soft-bodied prey, primarily fish but also worms and snapping shrimp, comprise a large
+proportion of the diet, in addition to clams, crabs, hermit crabs, and snails. This result
+held even when informative priors were constructed to reflect a specialist diet on hardshelled prey and prey abundances in the field (30-50%, depending on the informative
+corresponds to a broad diet of both hard-shelled and soft-bodied prey. Despite their
+powerful punch, mantis shrimp are the major diet item of common reef animals. Given
+that they are very abundant and consumed by a diversity of larger predators, while also
+reef food webs.
+
+
+THERMOTOLERANCE AND PHOTOACCLIMATION IN SYMBIODINIUM: PHYSIOLOGICAL AND TRANSCRIPTOMIC APPROACH OVER A TEMPORAL SCALE
+(Abstract ID: 30028)
+
+
+We quantified thermotolerance in 11 cultures from different populations of five species
+growth and photochemical efficiency (Fv/Fm). Thermotolerance was not restricted to
+a single species but it was widespread across species and cultures, showing a gradient
+from susceptible to tolerant. All cultures at 32°C decreased growth and Fv/Fm. To test
+was explored first using cDNA microarrays before (day -2), and during acclimation (day
+6 & 16). Differentially expressed genes (DEG) due to increased temperature were time
+dependent. DEG on day 16 were likely a result of the start of the stationary phase in
+culture. Similarly, RNA-Seq data (day 5 and 7) suggest temporal variation in gene expression with major changes in heat-shock proteins and chaperones. Retrotransposons were
+highly expressed on day 7, indicating high stress during thermal exposure. Adaptation
+to higher temperatures is not restricted to a single clade or species but it is widespread
+within species. However, acclimating to higher temperatures compromises health and
+increases chaperone activity.
+
+SPECIES-LEVEL VARIABILITY IN SUPEROXIDE PRODUCTION BY SYMBIOTIC
+CORALS (Abstract ID: 28193 | Poster ID: 107)
+Superoxide, a reactive oxygen species (ROS), is both beneficial and detrimental to
+biological systems. In corals, superoxide has been implicated in bleaching, while also
+having a potential role in defense against pathogens. However, an understanding of the
+superoxide dynamics and sources within corals is currently missing due to a lack of
+direct in situ superoxide measurements. By conducting the first direct measurements
+of superoxide produced by corals on a natural reef during a bleaching event, we show
+substantial species-specific variation in external superoxide levels, which reflect the
+balance of production and degradation processes. Porites lobata,Porites compressa, Pocillopora damicornis, and Fungia scutaria maintained average external levels of superoxide
+that were approximately 100, 50, 20, and 2 nM above background seawater concentrations, respectively. However, superoxide levels adjacent to Montipora capitata were below
+levels present in the surrounding seawater, pointing to net degradation of superoxide
+and possible involvement of extracellular antioxidants. In all species, external superoxide
+levels were decoupled from the abundance of the photosynthetic endosymbiont
+Symbiodinium. However, aposymbiotic coral larvae and cultures of bacterial symbionts
+produced extracellular superoxide and may contribute to external superoxide levels.
+These results suggest potential species-specific roles for extracellular superoxide dynamics in the health, development and recruitment of symbiotic corals.
+
+
+ENGAGING MILLENNIAL NON-SCIENTISTS IN CORAL REEF CONSERVATION
+THROUGH DIGITAL MEDIA STRATEGIES (Abstract ID: 30088 | Poster ID: 708)
+Skandha is a project aimed at raising climate change awareness. Our focus is communicating science to the general public, particularly millennials, as they are digital natives
+well versed in the language of online media. In collaboration with more than 30 volunteers from different disciplines, Skandha has run several successful campaigns in Mexico
+City, including raising awareness of energy consumption, and organizing climate change
+talks with undergraduates. In an online campaign, we repurposed marketing techniques
+originally developed for commercial needs, and applied them in digital communication
+of climate science. With these methods, we designed a new digital communication
+strategy for the Mexican Coral Reef Society (SOMAC), using a Facebook fan page. In
+the first 3 months we reached more than 1,000 organic likes. In 6 months, 80 posts were
+published, reaching at least 1,300 people each, resulting in an average of 60 engagement
+actions per post. For each post in the fan page linked to the SOMAC website, daily visits
+increased 6-fold, with 86% being new users. The fan page audience is 91% Mexican,
+
+
+RESPONSE OF CORAL ASSOCIATED BACTERIA TOWARD THERMAL STRESS
+(Abstract ID: 27872 | Poster ID: 150)
+The coral holobiont includes the coral animal, its dinoflagellate symbionts, and its associated microbial community. Symbionts complement the host genome by providing
+
+83
+
+ICRS
+
+13TH INTERNATIONAL CORAL REEF SYMPOSIUM
+
+NOAA’s Coral Reef Conservation Program, in partnership with the National Centers for
+Coastal Ocean Science, is leading an effort to incorporate social and economic monitoring into a new, integrated national monitoring plan for US coral reef jurisdictions. The
+National Coral Reef Monitoring Program includes three components: biological, climate,
+and socioeconomic. The socioeconomic component includes gathering information on
+population change, use of coral reef resources, and knowledge, attitudes, and perceptions of coral reef resources and management. The overall goal of the socioeconomic
+monitoring is to track relevant social and economic information for each jurisdiction
+in order to investigate the impacts of society on coral reefs and the contributions of
+healthy corals to nearby communities. Data collection is complete for South Florida,
+Puerto Rico, American Samoa, and Hawaii, while efforts in Guam, the Commonwealth
+of Northern Mariana Islands, and the US Virgin Islands are in development. The three
+data streams, biological, climate and socioeconomic, are intended to be combined into
+a single comprehensive monitoring program for the coral reef ecosystem. As a first step
+towards integration, the data will be analyzed and scored through the use of indicators
+in a report card for each jurisdiction. Future steps might include using the data to: understand gaps between actual and perceived resource condition, predict the populations
+most likely to engage in pro-environmental behaviors, and assess the importance of reef
+species to the provision of food and livelihoods.
+
+and 78% of the audience belongs to the millennial generation (ages 18-34). Initial results
+demonstrate that using methods developed for commercial marketing can enhance
+climate science communication by encouraging social media engagement, leading to
+increased traffic to environmental organizations’ web sites for further learning. Skandha
+is taking novel steps toward improving climate change awareness and preservation of
+Mexican coral reefs.
+
+MACROALGAE AND CO2: EXPERIMENTAL APPROACHES TO UNDERSTANDING CABON-USE STRATEGIES AND COMPETITIVE MECHANISMS BETWEEN
+ALGAE AND CORALS (Abstract ID: 28677)
+
+
+Understanding the drivers and mechanisms leading to increased macroalgal (seaweed)
+abundance in coral reefs is of critical importance. Human-induced ocean acidification
+(OA) due to elevated carbon dioxide (CO2) concentrations in seawater has been suggested to stimulate macroalgal growth and abundance on reefs. However, little is known
+about the physiological mechanisms by which reef macroalgae use CO2 or bicarbonate
+(HCO3-) from the bulk seawater for photosynthesis, or, what species could benefit from
+benefit macroalgae over corals in competitive interactions, contributing to reef degradation. However, the mechanisms used by algae to outcompete corals under elevated CO2
+are unknown. In this talk, I will show how we are using experimental approaches to
+tackle these questions. For example, the use of carbon isotopes in macroalgae from the
+Great Barrier Reef (GBR) shows that algae have diverse carbon-use strategies granting
+increased CO2 and GBR offshore reefs seem more sensitive to impacts of OA induced
+algal proliferation. Our experiments on how algae outcompete corals under OA show a
+variety of mechanisms including increased algal allelopathy, elevated algal DOC production and increased coral susceptibility to algal overgrowth. These experimental outcomes
+are providing key information to fill gaps in our understanding of the impacts of elevated
+CO2 on the ecology and resilience of coral reefs.
+
+DERMAL DENTICLES AS A TOOL TO RECONSTRUCT HISTORICAL SHARK
+COMMUNITIES (Abstract ID: 28658)
+What were shark communities like before humans? Ecological surveys and historical
+records demonstrate significant declines in Caribbean shark populations, yet preexploitation baselines are nonexistent. Fossilized dermal denticles – tiny, tooth-like scales
+lining the skin of elasmobranchs – may offer insight into pre-human shark communities
+on reefs. Denticles are well-preserved in fossil reef sediments, but their identification
+represents a major challenge. We built a large reference collection from museum and local
+collections comprising 215 denticles from 37 species within 16 families. Morphometric
+analysis revealed that denticle morphology is loosely tied to clade, making species-level
+identification impossible. We found, however, that denticle traits are strongly correlated
+with life habit and feeding mode. Fast, predatory sharks possess thin, ridged ‘drag reduction’ denticles, whereas demersal sharks, such as nurse sharks, are characterized by thick
+‘abrasion strength’ denticles. We extracted 254 denticles from a 7,000-year-old fossil reef
+and 602 denticles from comparable modern reefs in Bocas del Toro, Panama and classified them using the reference collection. Both denticle assemblages corresponded well
+with families documented in the region. Preliminary data showed a significant decrease in
+the relative abundance of ‘drag reduction’ denticles and an increase in ‘abrasion strength’
+denticles over the past ~7,000 years. This suggests that, irrespective of changes in the
+number of sharks, an important shift in shark community composition has occurred.
+
+
+UNDERSTANDING THE TAXONOMY OF THE MESOPHOTIC CORAL GENUS
+LEPTOSERIS: THE NEXT CHAPTER (Abstract ID: 28274 | Poster ID: 339)
+Growing interest in mesophotic coral reef ecosystems (MCEs) has stimulated interest in
+the taxonomy and biology of mesophotic corals. A key example is the agariciid genus
+Leptoseris which is often a dominant coral in MCEs. Historically, Leptoseris has not been
+well represented in museum collections, and despite the systematic review of Leptoseris
+by Dinesen (1980), from a taxonomic perspective it has not been widely studied. However, advances in molecular techniques and integrated systematic approaches, combining
+molecular and micro-morphological studies with traditional macro-morphological approaches, have enabled new insights into Leptoseris. This integrated taxonomic approach
+has certainly facilitated understanding of mesophotic agariciid corals such as species of
+Leptoseris and Pavona in Hawai’i (Luck et al. 2013). However, there have been challenges
+in reconciling traditional morphological characters with the results of molecular genetic
+analysis for Leptoseris from other geographic areas. Recent research has also highlighted
+the importance of access to original type material to resolve key taxonomic questions,
+update on progress in unravelling the taxonomic status of Leptoseris species, in light of
+
+ARE MARINE SUTURE ZONES EVOLUTIONARY LABORATORIES? INSIGHTS
+FROM GENETIC STUDIES OF REEF FISH HYBRIDISATION (Abstract ID: 28609)
+Closely related species can provide valuable insights into evolutionary processes through
+their ecology, distribution, and the history recorded in their genomes. In the Indo-Pacific,
+many reef fishes are divided into sister species in the Indian Ocean and Pacific Ocean, with
+a zone of overlap in the eastern Indian Ocean; this often leads to hybridisation between
+them. More recent work has characterised marine suture zones in the Western Indian
+Ocean and Pacific Ocean. The aim of this presentation is to review genetic studies of reef
+fish hybridisation in recognised suture zones, and address whether the patterns therein
+represents incomplete speciation, secondary contact, an evolutionary dead-end (for hybrids)
+or some combination of the above. Further comparison to studies in the terrestrial realm
+and the potential application of emerging genomic technologies are discussed.
+
+
+THE CONTRIBUTIONS OF SOCIOECONOMIC MONITORING FOR CORAL REEF
+CONSERVATION IN THE US (Abstract ID: 28085)
+84
+
+ABSTRACT BOOK
+
+ICRS
+
+attracted to damaged coral tissue and our findings suggest that it is likely that snails actively migrated into the affected reef area and were taking advantage of the dying coral
+tissue. Our observations add further evidence to the potential importance of corallivores
+on disease processes.
+
+GENOMIC INSIGHT INTO HOST-ENDOSYMBIONT RELATIONSHIP OF ENDOZOICOMONAS MONTIPORAE CL-33T WITH ITS CORAL HOST (Abstract ID: 29147)
+The bacteria Endozoicomonas are commonly detected in healthy corals in coral
+associated bacteria studies. They are likely to be a core member of coral microbiota,
+however, little is known about their roles inside corals. To decipher interactions between
+the bacteria and their coral hosts, we conducted genomic and physiological approaches
+genome (5.43Mb, 99.8% in completeness) revealed abundant mobile elements than the
+other Endozoicomonas species. A number of genes potentially related to bacteria-host
+interactions were identified. Testosterone degrading genes and type III secretion system
+were commonly present in Endozoicomonas species and that might assist to recognize
+or deliver effectors to their hosts. Several secreted eukaryotic domain proteins identified,
+such as myosin-tail domain protein and serine/threonine protein kinases, suggesting this
+bacterium may modulate its host’s signaling pathways and vesicle trafficking. Moreover,
+the genes of eukaryotic ephrin ligand B2 were surprisingly found in its genome, inferring
+that the bacterium could enter coral cells by endocytosis via binding to host’s Eph receptors. In addition, some T3SS effectors encoded by the bacterium, such as 7,8-dihydro8-oxoguanine triphosphatase and isocitrate lyase, might prevent mitochondria dysfunction and aid gluconeogenesis efficiency, especially under stress. All those findings suggest
+communicate and modulate its coral host.
+
+
+PREDATOR-PREY INTERACTIONS ON CORAL VS ALGAL DOMINATED REEFS:
+BEHAVIORAL PLASTICITY AND SURVIVORSHIP OF JUVENILE FISHES (Abstract
+ID: 27906)
+Many healthy reefs dominated by corals have transitioned to degraded reefs dominated
+by seaweeds. Impact of this phase shift on the behavior and survivorship of coral reef
+fishes is poorly understood, but could affect survival of recruits and export of juveniles
+from healthy to degraded locations where fishes could enhance reef resilience and
+recovery. Using experimental patch reefs in pairs of adjacent healthy (MPAs) and
+degraded (non-MPAs) reefs, we identified between-habitat differences in predators,
+patterns of attack, and prey behaviors that affect survival in these divergent habitats. Primary predators in MPAs were rapidly moving wrasses attacking from above; prey here
+selectively used higher portions of the reefs to visually monitor predators. Conversely,
+predators in seaweed dominated, non-MPAs were sit-and-wait predators that ambushed
+upward from the benthos. Prey here selectively used lower portions of reefs where
+they could presumably better detect chemical cues from sit-and-wait predators. In both
+situations, prey seemed selected to detect, rather than spatially avoid, predators. Prey
+fishes reciprocally moved from MPA to non-MPA, or vice versa, experienced a 3-16 fold
+increase in mortality compared to fishes relocated within their initial habitat. Prey that
+survived relocation adjusted behaviors to match fishes naturally found within the new
+habitat. Our findings suggest that habitat quality, predator community composition, and
+prey behaviors interact to affect prey survival, and that prey behavior is dynamic and
+crucial as reefs under-go regime shifts
+
+
+PARTICIPATORY MAPPING: TOOLS FOR INTEGRATING LOCAL KNOWLEDGE
+INTO MARINE PLANNING (Abstract ID: 28072)
+Coastal communities harbor a wealth of social knowledge about their ocean spaces that
+can lend critical insight to marine planning and MPA design and management. Participatory mapping is an evolving tool that combines traditional stakeholder engagement
+strategies with GIS techniques to capture and transform place-based knowledge into
+socio-spatial planning information. When integrated with conventional marine planning
+strategies, participatory mapping works to translate social perspectives about the ocean
+and coast into a spatial context while providing a forum for sharing opinions, historical
+perspectives and perceptions about potential social or ecological impacts of proposed
+planning strategies. NOAA’s Marine Protected Areas Center has designed a participatory mapping strategy to engage marine communities in the documentation of social
+knowledge to inform a wide range of marine planning efforts. This flexible process has
+been applied at varying scales and with a wide range of partners and funding scenarios,
+all with the intent of gathering community perspectives while building relationships and
+local trust and support for developing marine plans. Participatory mapping promotes
+collaborative planning, giving communities a voice throughout the decision-making process while yielding valuable, spatial human dimensions information. This presentation
+will highlight NOAA’s participatory mapping efforts, discuss the tools and techniques, and
+share common challenges and solutions for planning and implementing participatory
+mapping efforts for marine planning and management.
+
+
+TRIPNEUSTES GRATILLA AS A POTENTIAL DISPERSAL AGENT OF THE CORAL
+MONTIPORA DIGITATA IN BOLINAO, PANGASINAN, PHILIPPINES (Abstract ID:
+29894 | Poster ID: 196)
+Montipora digitata propagates primarily by fragmentation and occurs in isolated yet
+extensive patches in sandy, shallow reef flats in the northwestern Philippines. The sea
+urchin Tripneustes gratilla, also common in these areas, is known to pick up fragments of
+rock and algae to conceal itself in the sandy habitat. This study tests if sea urchins can
+the distance travelled by urchins carrying different sized fragments, monitoring the shortterm survivorship of coral fragments after deposition on the unconsolidated substrate,
+and test tissue histocompatibility among established colonies within the same coral
+frequently (61%) than live ones (39%) (X2 test, p<0.05), it had no particular aversion
+to picking up live corals. The distances travelled by the sea urchin while carrying coral
+fragments were not significantly different with respect to fragment size (ANOVA, p>0.05).
+and continued to grow during the 2-month observation. Fragments from different
+colonies in the same patches exhibited tissue fusion indicating that growing, established
+coral colonies tested may have the same colony origin. These results indicate that mobile
+macrofauna may be crucial in the successful establishment of sessile, clonal organisms
+such as corals in physically unstable reef areas.
+
+
+RESPONSE OF FISH AND SNAIL CORALLIVORES TO AN OUTBREAK OF ACUTE
+TISSUE LOSS DISEASE ON THE REEFS OF VAAN ISLAND IN THE GULF OF
+MANNAR, INDIA (Abstract ID: 28496)
+
+
+Outbreaks of tissue loss diseases in corals are becoming more common resulting in
+direct colony mortality and also affecting the animals that depend on corals for food
+and shelter. We documented an outbreak of an acute tissue loss disease on a reef in
+the Gulf of Mannar, India and compared the density of fish and snail corallivores in the
+outbreak area to an adjacent control area. Line-intercept on three transects within each
+area (outbreak and control) found both areas dominated by the coral, Montipora digitata.
+tissue loss as compared to 0.33% in the control area. This is the first report of a disease
+outbreak on the reefs in the Gulf of Mannar. Coral-feeding butterfly fish were observed
+feeding directly on diseased coral tissue in the affected area but belt transects found the
+density of butterflyfish to be similar between the outbreak and control area. In contrast,
+drupellid snails were also observed feeding on disease margins of affected colonies but
+densities were significantly higher in the outbreak area (avg. 2.2±0.9 snails/m2 coral)
+as compared to the control area (avg. 0.003±0.001 snails/m2 coral). Drupellids are
+
+RECOVERY OF MONTIPORA CAPITATA AND PORITES COMPRESSA FROM
+BLEACHING UNDER OCEAN ACIDIFICATION CONDITIONS (Abstract ID: 29624)
+We experimentally investigated the effects of pCO2 (ambient, 364 micro atm vs.
+elevated, 750 micro atm) and feeding (fed zooplankton vs. not fed) on the recovery
+hypotheses: 1) ocean acidification (OA) increases recovery time from bleaching, and
+85
+
+ICRS
+
+13TH INTERNATIONAL CORAL REEF SYMPOSIUM
+
+gains from adopting a more effective inoculant than the one available to past control
+programs and field reports on starfish relative abundance coming from a dedicated
+surveillance program of unprecedented resolution, the first year of the AMPTO program
+was able to cull <10% of the large starfish estimated to exist in the outbreak domain.
+The control program has since contracted to the local defence of reefs critical to the dive
+tourism market; a scale at which hand control has proven effective at maintaining coral
+cover. The failed attempt at population-scale control yields insights into the dynamics
+of these mass eruptions on the GBR and suggests that a different strategy should be
+attempted to suppress or delay a fifth cycle of outbreaks.
+
+2) zooplankton feeding enhances the rate of recovery from bleaching. Preliminary data
+shows that chlorophyll a was lower in bleached corals than non-bleached corals initially,
+but no longer differed after 7 months independent of pCO2 or feeding in both species.
+of the experiment. Zooplankton feeding did mitigate the negative effects of OA on P:R
+in both species despite the overall feeding rates being depressed under OA conditions
+after 7 months of exposure. The maintenance of biomass across all treatments and
+species suggests that any negative effects of OA on coral recovery from bleaching might
+be minimal. Overall, our results to date suggest that zooplankton feeding does play a
+role in mediating elevated pCO2 during recovery from bleaching, but there is yet no
+clear pattern of the effects of OA on recovery rates. Additional data, including carbon
+budgets over the course of the year-long experiment, will be presented. This research
+will provide new insights in understanding the factors that allow certain corals to recover
+more quickly from bleaching in an increasingly acidic ocean, providing a tool for identifying coral resilience traits.
+
+
+DEVELOPMENT OF ACOUSTIC METHODS TO INVESTIGATE HAWAIIAN
+SEMI-DEMERSAL FISH DISTRIBUTION AND ABUNDANCE FOR MONITORING
+STOCKS (Abstract ID: 27965)
+
+
+Presently, only fisheries-dependent methods are used for stock assessment and management of six economically important Hawaiian snapper species and an endemic grouper
+(collectively known as ‘Deep-7’). Active acoustic methods have been successfully employed for stock assessment of semi-demersal fish in non-trawlable regions elsewhere
+and have potential advantages over the current assessment methods. Acoustic backscatter data and complementary methodologies involving target strength (TS) measurements
+of tethered fish, video-camera observations, and fishing were used to model TS and
+develop acoustic descriptors such as aggregation shape, size, and density, individual
+swimming pattern, distance from bottom, and bottom depth for Deep-7 species. Paired
+observations of in situ TS and fork length (FL) gave an estimated TS-FL relationship
+for Deep-7 species: 23.01∙log10(FL)-72.18. Acoustic data indicated high spatiotemporal
+variability, with higher number of detections during daytime than at night. Most Deep-7
+fish were found between 110 and 330 m depths, within 50 m of the bottom, with both
+tightly aggregated and loosely grouped fish contributing significantly to biomass and
+abundance. While results are preliminary, they indicate that acoustics could be successfully used to monitor Deep-7 stocks in Hawaii. Abundance and biomass estimates can
+be improved by fine tuning acoustic descriptors using additional data and improving
+biomass estimates in the deadzone.
+
+INVESTIGATING POPULATION GENETICS OF THE SCLERACTINIAN CORAL,
+MONTASTRAEA CAVERNOSA, ALONG THE FLORIDA CORAL REEF TRACT’S
+NORTHERN EXTENT (Abstract ID: 29063 | Poster ID: 317)
+Coral reef populations on Florida’s central east coast are located at unique boundaries
+that are susceptible to many anthropogenic influences including controlled freshwater
+discharge and agricultural runoff. Natural environmental variability is relatively high as
+a result of seasonal rainfall and upwelling patterns. Neither coral spawning nor gamete
+development have been observed at the northern end of the Florida Coral Reef Tract,
+therefore we hypothesize that this region may represent a population sink for many coral
+species. To better understand coral population connectivity of reefs in Southeast Florida,
+populations of the scleractinian coralMontastraea cavernosa were examined. This species’ wide geographic distribution throughout the Tropical Western Atlantic and broad
+depth range from 3 to 100 meter depths allow comparisons of both horizontal and vertical connectivity. However, few investigations of this species have focused on southeast
+Florida. Saint Lucie Reef near Stuart and Breakers Reef near Palm Beach represent the
+upper latitudinal limits for many scleractinian coral species along the Florida Coral Reef
+Tract. This study aims to compare microsatellite genetic markers from these reefs to understand their connectivity and determine influences of the Florida current on dispersal,
+recruitment, and population structure.
+
+
+
+TRANSGENERATIONAL PLASTICITY DEPENDS ON RATE OF WARMING
+ACROSS GENERATIONS (Abstract ID: 28001)
+
+ISLANDS (Abstract ID: 29788)
+
+Predicting the impacts of climate change to biological systems relies on an understanding of the ability for species to acclimate to the projected environmental change through
+phenotypic plasticity. Determining the effects of higher temperatures on individual performance is made more complex by the potential for environmental conditions experienced in previous and current generations to independently affect phenotypic responses
+to high temperatures. We used a model coral reef fish to investigate the influence of
+thermal conditions experienced by adult breeding pairs and their parents on reproductive output and the quality of offspring produced. We found that more gradual warming
+over two generations resulted in greater plasticity of reproductive attributes, compared
+to fish that experienced the same increase in one generation. When fish experienced
++3.0 °C experienced for two generations reproduction ceased in the expected future
+summer conditions (31.5 °C). Additionally, we found that transgenerational plasticity to
++1.5 °C induced full restoration of previously thermally effect reproductive and offspring
+attributes, which was not possible with developmental plasticity alone. Our results suggest that transgenerational effects differ depending on the absolute thermal change and
+during what life stage the thermal change is experienced.
+
+The queen conch is one of the most highly valued fishery resources in the Caribbean,
+but populations throughout its range have declined severely, and available data are insufficient for conducting traditional stock assessments. In most areas, it has been difficult
+to equally judge the effects of both traditional and spatial management measures. To
+address this deficiency, we conducted stratified fishery-independent surveys of queen
+tree analyses were used to identify relationships between conch densities and measured
+ecosystem variables. Habitat type was the strongest predictor of juvenile densities, followed by management zone (marine protected area versus open fishing area), and water
+depth. The model predicted that the highest densities of juveniles would be found in
+patchy (30-50% cover) and continuous seagrass within the marine protected area in 1115 m of water (2178 per hectare). Adult densities were predicted to be highest (523 per
+hectare) across several different habitat types, at depths between 21-30 m also within the
+marine reserve. This method of extrapolating population densities incorporating multiple
+ecosystem components represents an innovative approach for assessing the status of
+this data-limited species. It provides a robust means to evaluate performance of marine
+spatial protection and can identify key habitat and ecosystem characteristics deserving
+of additional management consideration.
+
+
+
+A NEW, HIGH-RESOLUTION GLOBAL MASS CORAL BLEACHING DATABASE
+(Abstract ID: 28000)
+
+OBSERVATIONS ON CONTROLLING CROWN-OF-THORNS STARFISH OUTBREAKS BY INJECTION (Abstract ID: 30106)
+
+Episodes of mass coral bleaching have been reported in recent decades and have
+raised concerns about the future of coral reefs on a warming planet. Despite the efforts
+to enhance and coordinate coral reef monitoring within and across countries, our
+knowledge of the geographic extent of mass coral bleaching over the past few decades
+is incomplete. Existing databases like Reefbase are biased by their voluntary nature and
+the location of prominent science and/or monitoring programs, thus creating a problem
+
+In 2012, users of the Great Barrier Reef Marine Park began to report numerous outbreaks of the Crown-of-Thorns Starfish (CoTS) on mid-shelf reefs between Cairns and
+Lizard Island signalling the start of the fourth major eruption of this native pest since the
+1960s. In the same year, the Association of Marine Parks Tourism Operators (AMPTO)
+mobilised funds from the Australian Government and began a program of diver-based
+hand control that has since killed over 400,000 starfish by injection. Despite efficiency
+86
+
+ABSTRACT BOOK
+
+ICRS
+
+indicate that in a changing climate, epiphytic LBFs are particularly important to survival
+of calcifying macroalgae. In contrast, LBFs can benefit from elevated daytime pH conditions in the microenviroment of a non-calcifying macroalgae, ameliorating impacts of
+climate change.
+
+of false negatives. The spatial extent of reported bleaching events is also unclear, as
+In this project, we have developed the first-ever gridded, global-scale historical coral
+bleaching database. First, we conducted a targeted search for bleaching reports not
+included in Reefbase by surveying the academic and grey literature and by personally
+contacting scientists and divers conducting monitoring in under-reported locations. This
+search increased the number of observed bleaching reports by 79%, from 4146 to 7429
+(through the year 2012). Second, we employed spatially interpolation, using techniques
+borrowed from species distribution modelling, to develop annual 4 km x 4 km global
+maps of the probability that bleaching occurred. The database will help the scientific
+community more accurately assess the change in the frequency of mass coral bleaching
+events, validate methods of predicting mass coral bleaching, and test whether coral reefs
+are adjusting to rising ocean temperatures
+
+
+
+PREDICTING CORAL GROWTH (Abstract ID: 29283 | Poster ID: 510)
+Predicting reef coral demographic rates is a critical part of forecasting the future of reefs
+under global change. This is challenging for highly diverse communities such as coral
+reefs, where a species by species approach is logistically unfeasible. A potential solution
+is to predict demographic rates from species traits. Here, we test this approach to predict
+coral growth rates. We ask whether most variation in coral growth rates occurs at the
+species level, morphological group level or at individual level through time. We estimate
+growth as change in planar area for 11 species of scleractinian corals, across five morphological groups (tabular, branching, digitate, corymbose and massive), and over five years.
+We show that coral growth scales with size according to a universal power law (that is the
+power law exponent is constant across species and morphological groups). Coral growth
+rates are best predicted from colony size and morphology rather than species. However,
+annual variation in growth rates is greater than variation among morphological groups,
+with slow growing morphological groups (massive and digitate) having more stable
+growth rates than faster growing morphological groups (tabular and branching). Finally,
+we show that colonial corals have pseudo-determinate growth: on average coral colonies
+stop growing at a certain size, which varies with morphological group. Colony size and
+morphological group are the most important predictors of coral growth rates.
+
+ECOSYSTEM REGIMES AND RESILIENCE OF HAWAIIAN CORAL REEFS (Abstract
+ID: 29152)
+Coral reefs worldwide face an uncertain future with many reefs transitioning from cover
+dominated by coral to algae. This binary view of coral reefs is limited in that it does not
+consider the underlying processes and complexities of the ecosystem that might relate
+to the resilience of coral or macroalgal dominated states. This study utilized a large
+database synthesized from multiple sources by collaborating with various monitoring
+programs and stakeholders, allowing analysis at a scale commensurate with ecosystemand resilience-based management in the Hawaiian Islands. To better describe coral
+reef ecosystems in terms of the communities that compose them, fish and benthic
+assemblages were considered together to define reef regimes. Model-based clustering
+revealed five distinct regimes that were then mapped to understand the spatial distribution and variation across the Hawaiian Islands. With this nuanced perspective of coral
+reefs, we identified a regime that was classified by low coral and low macroalgae but
+high fish biomass, and what was previously considered a single coral regime was broken
+into several regimes that varied in their ecology and relative resilience to human drivers.
+This project was co-developed with state and federal agencies, NGOs, and community
+groups to build partnerships for practical implementation of ecosystem-based management by utilizing monitoring data to understand the effects of human drivers on coral
+reef ecosystems.
+
+
+DISTURBANCE MEDIATED ECOLOGICAL TRADE-OFFS DURING CORAL RECRUITMENT (Abstract ID: 28900)
+In 1977, Peter Grubb proposed the theory of the regeneration niche: defining the
+environmental conditions that allow new individuals to colonise an area successfully and
+become established in the local population. By doing so, ontogenetic trade-offs can be
+quantified and the recruitment of individuals predicted under multiple scenarios of biophysical forcing. Here, I present the findings of a two-year study in which we combined
+field observations with laboratory and field experiments to parameterise an individualbased model aimed at developing a mechanistic understanding of the ecological
+trade-offs that occur during coral recruitment. The investigation focuses on the individual
+processes involved in recruitment – beginning at larval settlement and continuing until
+recruitment bottlenecks are surpassed – and incorporates the microhabitat complexity that is key in understanding benthic recruitment. Our results demonstrate that
+coral settlement is higher in crevices than exposed microhabitats, but post-settlement
+bottlenecks differ markedly in the presence and absence of predators. Maximum recruitment occurs in crevice microhabitats of uncaged treatments, being 9-fold higher than
+caged treatments. Overall, we uncover the trade-offs between growth, competition and
+predation, highlighting how these change and even reverse during ontogeny and under
+alternate disturbance regimes.
+
+
+Large benthic foraminifera (LBFs) are vital producers of calcium carbonate, and commonly live as epiphytes on marine algae. Marine algae have large diffusive boundary
+layers, elevating pH around the algae during daytime photosynthesis. Effects of changing
+ocean temperature and chemistry on LBFs as epiphytes are unknown. Two macroalgae
+(a calcifying green algaeHalimeda tuna, and a non-calcifying red algae Laurencia intricata)
+were incubated with a common epiphytic LBF, Marginopora vertebralis in current and
+future conditions of ocean acidification and warming for 15 days. Increased bleaching of
+of H tunadecreased in the high temperature and acidification treatment, while those
+
+
+A HIGH-RESOLUTION CHARACTERIZATION OF SYMBIODINIUM COMMUNITIES ALONG A DEPTH GRADIENT IN THE REEF-BUILDING CORAL SIDERASTREA SIDEREA (Abstract ID: 29615 | Poster ID: 128)
+87
+
+ICRS
+
+13TH INTERNATIONAL CORAL REEF SYMPOSIUM
+
+The relationship between corals and their endosymbiotic dinoflagellates, Symbiodinium,
+is a dynamic yet fragile symbiosis. Understanding the flexibility of this symbiosis is
+central to predicting the long-term response of corals to climate change. Previous studies
+have shown corals exhibit different patterns of Symbiodinium community composition
+between areas of varied susceptibility to environmental fluctuation, such as in shallow
+versus deeper reefs. Until recently, studies used cloning or electrophoresis-based techniques that are prone to underestimates of diversity. This study applies next-generation
+sequencing to assess Symbiodinium community composition within the same coral species at different depths. We analyzed the Symbiodinium communities within Siderastrea
+siderea colonies collected in the Florida Middle Keys reefs at three depths: 11, 18, and
+27 m. Symbiodinium community composition was determined using Illumina paired-end
+sequencing of the cp23S rDNA region. We identified a strikingly diverse Symbiodinium
+symbiosis across areas with varying degrees of exposure to environmental variability.
+
+PERSONAL CARE PRODUCT POLLUTION ON CORAL REEFS: TOXICOLOGY
+AND CONTAMINATION OF UV SUNSCREENS, PRESERVATIVES, PLASTIC MICROSPHERES AND OTHER INGREDIENTS (Abstract ID: 29544)
+
+
+IN-SITU MEASUREMENTS OF SOLAR EXPOSURE DISTRIBUTION ON A CORAL
+REEF: PRELIMINARY FINDINGS RELATING TO REEF ASPECT, WATER TURBIDITY AND DOSIMETER DESIGN (Abstract ID: 28454 | Poster ID: 545)
+
+INSIGHTS INTO THE EFFECTS OF TEMPERATURE AND/OR ACIDIFICATION
+ON CORAL REEF ECOSYSTEMS (Abstract ID: 28119)
+
+Thin film dosimeters have been used for the measurement of solar radiation since the
+1970s. Their application includes personal exposure measurement and environmental
+exposure monitoring. Polyphenylene oxide (PPO) films have recently been developed
+for use in various underwater environments. These dosimeters are capable of measuring solar ultraviolet-B (UVB, 290 – 315 nm), which is a recognized physical stressor of
+corals when combined with elevated water temperatures occurring within the irregular
+structure of a coral reef. We present preliminary findings employing a newly developed
+PPO dosimeter clamp deployed upon reef building corals situated within turbid inshore
+waters of the Great Sandy Marine Park, Southern Queensland, Australia. UVB exposures
+measured over a 24 hour period during peak summer exposure conditions ranged from
+12.11 kJ m-2 to 21.13 kJ m-2. This preliminary data showed a clear dependence on reef
+aspect with the highest exposures incident upon north facing (Southern Hemisphere)
+reef surfaces. We conclude that exposure stress to corals may still occur in shallow
+turbid water with UVB exposure being strongly associated with reef aspect.
+
+enter coral reef either through swimmers, or predominantly as sewage effluent. The
+impact of these chemicals is only now beginning to be discovered. We show the toxic
+and different types of microspheres (plastic, castor bean, cellulose). We also show levels
+of these ingredients in waters of coral reef environments, as well as in corals themselves.
+We provide a risk assessment as to the threat these ingredients pose to coral reefs. We
+provide a number of options that local communities, businesses, management agencies,
+and legislators can implement that will mitigate this source of pollution.
+
+Coral Reefs are expected to experience reduced rates of calcification in response
+to projected ocean warming and acidification. The actual impact of different future
+scenarios, given as representative carbon pathways (RCP), or the separate impacts of
+ocean warming and acidification on coral reef calcification need to be quantified if
+we are to correctly assess the long term costs of different pathways and actions to the
+maintenance of essential ecosystem services such as coastal protection. In the present
+study, we determined whole system calcification rates for mini reefs reconstructed from
+the principal components of a southern Great Barrier Reef fore-reef over annual periods
+that included natural daily and seasonal variability. The results showed that: (i) under
+present day scenarios, reefs calcified 3-fold faster in summer than in winter; (ii) reefs
+failed to calcify over the long-term under RCP4.5 and were in a state of decalcification
+under RCP8.5, with the principal difference between RCP4.5 and RCP8.5 associated
+with the level of decalcification occurring at night rather than differences in daytime
+calcification rates; (iii) RCP8.5 warming decreased reef calcification rate as a result of
+coral mortality and increased microbial sediment abundance, whereas RCP8.5 acidification decreased reef calcification by increasing decalcification in the dark. The results
+present empirical support for the consensus that CO2 emissions must be curtailed, but
+also suggests that the negative impact of acidification on the carbonate balance of reefs
+predominantly occurs at night.
+
+
+
+THE THREAT OF BOAT ANTIFOULANT PAINTS TO CORAL REEFS: PERMENANT MOORING AND ANCHORING SITES AS A SIGNIFICANT SOURCE OF
+LOCALIZED CORAL REEF DEGRADATION (Abstract ID: 29605 | Poster ID: 465)
+
+A CNIDARIAN-SPECIFIC IONOTROPIC GLUTAMATE RECEPTOR LINEAGE
+FUNCTIONALLY INVOLVED IN IMMUNITY (Abstract ID: 28405)
+
+Reports have accrued from all over the world for the past 15 years regarding a zone of
+mortality and degradation regarding permanent moorings for small boats (less than 30
+meters), usually the length of the mooring line. We conducted a two phase investigation.
+The first phase examined the ecotoxicological effects of two major antifoulant ingredients (cuprous oxide, tributyltin) on major coral reef ecological receptors, including sea
+urchin embryos (Tripneustes gratilla & Tripneustes ventricosus), coral larvae, adult coral,
+shrimp larvae, and fish larvae (Pseudochromis fridmani, Orchid Dottyback). Cuprous oxide is much more toxic than ionic copper. Nanoparticles of Cu2O (~10 nanometer) were
+about an order of magnitude more toxic than micro-particles (~30 micrometer). The
+second phase was an examination of the level of toxicity and contamination of several
+coral reef sites that contained or had nearby permanent mooring sites. Porewater toxicity and Toxicity Identification Evaluation indicated that over 90% of the toxicity resulted
+from the two major antifoulant ingredients. Antifoulant paint from small water craft poses
+a serious threat to coral reefs. Active management of antifoulant paint, small water craft
+and environmental mooring buoys is necessary to mitigate the damage done to reefs.
+
+Cnidarians perceive their environment and respond through their innate immune system
+by recognizing ligands and molecular patterns. Transcriptional evidence underlying
+immune priming by recurrent bacterial challenges within the anemone, Exaiptasia pallida
+identified an ionotropic glutamate receptor (iGluR) as a highly differentiated protein
+among immune challenged anemones. iGluRs are transmembrane ion channels involved
+in invertebrate chemosensing and plant iGluR-homologs are implicated in sensing pathogen- and damage-associated molecular patterns (PAMPs, DAMPs) that act together
+for hosts to differentiate pathogenic-damaging microbes from beneficial or harmless
+microbes. To infer the evolution and characterize the molecular function of a proposed
+cnidarian-specific iGluR, phylogenetic analyses were conducted using the full coding
+synaptic-involved NMDA, kainate, or AMPA ligands. In silico analysis identified potential
+phylogeny of iGluRs, and has retained molecular characteristics to respond to chemical
+stimuli. Based on this, we postulate that iGluRs may mediate PAMP-triggered immunity
+via calcium channels by pattern-recognition particles. These findings provide the foundation for further functional analysis to understand the role of cnidarian iGluRs.
+
+
+BUILDING MARINE PROTECTED AREA MANAGEMENT CAPACITY AT PRIORITY CORAL REEF SITES IN THE CARIBBEAN REGION (Abstract ID: 29559)
+
+
+Over the past five years, a successful capacity building partnership has been established
+between 30 ecologically-connected marine protected areas (MPAs) in the wider Caribbean region, NOAA’s Coral Reef Conservation Program and the Gulf and Caribbean
+88
+
+ABSTRACT BOOK
+
+ICRS
+
+Caribbean reef decline has prompted the listing of the coral genus Acroporaas threatened (ESA) and led to the development of active restoration techniques to facilitate
+recovery. Expanding efforts demand a better understanding of the genetic drivers of
+coral growth and survivorship and the implications of active intervention on genetic and
+genotypic diversity on multiple scales. We describe the use of Genotyping by Sequencing to formulate and resolve genetic questions about Acropora cervicornisrestoration and
+conservation in Florida. GBS provides more markers per individual than conventional
+molecular techniques, enabling a holistic understanding of factors relevant to restoration
+such as population structure, genotypic diversity within reefs, and genetic diversity of
+including high diversity of wild corals and three genetically distinct populations. GBS
+also highlights large genetic/genotypic diversity within reefs and thickets, suggesting
+adaptive variation over small distances and providing key information for the development of nursery propagated thicket outplanting. Finally, substantial genetic and genotypic diversity in existing nursery stocks is reflected in variable performance in situ and
+suggests the high diversity of wild and outplanted coral assemblages tempers concerns
+of reduced fitness due to outplanting. GBS should be incorporated into the restoration
+‘toolbox’ as an important metric for understanding the effects of intervention.
+
+Fisheries Institute. The initiative began with the selection of 10 Caribbean countries to
+participate in an assessment of MPA management capacity. The assessment applied
+a new tool for a guided self-evaluation of management capacity by MPA managers
+covering 25 aspects of MPA management and systematically assessing capacity on a
+three-tiered scale. Our approach to capacity building has been to facilitate peer to peer
+learning, strategically targeting the highest priority management needs identified in the
+capacity assessment. We have formed a learning network of MPA managers and professionals to address needs identified by each MPA through a variety of means, including
+regional peer to peer workshops, direct technical support, site to site learning exchanges
+and competitive grants. To date, the partnership has addressed sustainable financing,
+enforcement, strategic management planning and implementation, outreach and communications, and socio-economic monitoring, while establishing a close-knit network
+between coral reef MPA managers and organizations with MPA management expertise.
+Exchanges between the Caribbean and Pacific, and cooperation with other donors and
+expert partners, have been effective in further building capacity. Site-specific follow-up is
+helping MPAs increase their management capacity on top priority needs.
+
+THE INFLUENCE OF CO2 ON CALCIFICATION IN CORAL CELL CULTURES
+(Abstract ID: 29534)
+
+
+Understanding the cellular and molecular responses of stony corals to ocean acidification
+is key to predicting their ability to maintain calcification under high CO2 conditions.
+Biomineralization toolkit proteins have been proposed for several corals and elucidating
+the connection between expression of these genes and calcification will allow a better
+understanding of their roles in the mineralization process. We analyzed cell cultures of
+the stony coral, Stylophora pistillata, by microscopy, qPCR, western blot, and mass spectrometry to test the effects of increased CO2 on the calcification process at the cellular
+CO2 re-aggregate into proto-polyps and precipitate CaCO3. When grown at high and
+several highly acidic proteins as well as a carbonic anhydrase, but down-regulate longterm
+cadherin protein production and minimize proto-polyp formation; this coincides with a
+medium rather than in a calicoblastic space. These results suggest that coral cells possess
+compensatory molecular machinery to deal with ocean acidification. However, the ability
+of these molecular mechanisms alone to compensate for very high CO2 appears limited.
+
+CLONALITY AND LOCAL DISPERSAL: MAJOR COMPONENTS IN POPULATION
+MAINTENANCE OF FIRE CORALS IN MOOREA REEFS (Abstract ID: 28586)
+Asexual reproduction is commonly thought to decrease evolutionary fitness by reducing
+genetic diversity in populations. Assessing levels of clonality in reef-building organisms is
+thus crucial to understand population maintenance and resilience of coral reefs. Although
+Millepora hydrocorals are a ubiquitous component of tropical reefs, information regarding
+ecological processes driving their population dynamics is still lacking. We investigated
+whether and how the level of clonality varies in Millepora platyphylla populations in five
+habitats with varying wave energy. We used 12 microsatellite markers to genotype 3651
+georeferenced colonies. The great majority of colonies are clones (>72% up to 97%) where
+wave energy is high (upper slope) and where waves and resultant coral fragments disperse
+(back, fringing and patch reefs). Clonality is reduced (<60%) on the mid slope where wave
+energy is lower. Relatively high levels of genetic diversity were estimated in all populations,
+although 328 clonal lineages (~30% of the 1064 multi-locus genotypes) were identified over
+the five surveyed habitats. Clones of the same lineage were dispersed among habitats with
+six clonal lineages that strongly demonstrated morphological plasticity among clones in
+response to wave energy. Parentage analyses provided the first evidence of larval retention
+that clonal propagation combined with phenotypic plasticity and local larvae dispersal is
+highly successful for population maintenance of fire corals in a marginal reef.
+
+
+
+RESOLVING MECHANISMS OF LOCALIZED ENVIRONMENTAL RESILIENCE: A
+CLOSER LOOK AT OCEAN DYNAMICS IN THE VERDE ISLAND PASSAGE DURING THE 1998 BLEACHING EVENT (Abstract ID: 29592)
+Known as the “center of the center” for marine biodiversity, the Verde Island Passage
+(VIP; Philippines) is valued for its abundance of reef fish and coral species. In 1998,
+anomalously warm sea surface temperatures (SSTs) associated with the El Niño/La
+Niña resulted in widespread coral bleaching in the Coral Triangle. However, satellite
+(CORTAD) data indicate that SST anomalies were less extreme in certain regions,
+observation, we use a high (500m) resolution Regional Ocean Modeling System (ROMS)
+model of the VIP from 1996-1999, which includes sub-mesoscale features and previously unresolved vertical structure in this relatively narrow passage. Lower SST anomalies in the VIP appear attributable to strong, seasonal surface currents that cool surface
+conditions through significant island upwelling and mixing resultant from interactions
+with internal tides. These findings suggest that the VIP’s configuration renders it less
+susceptible to thermal stress incurred by climatic events such as ENSO 1998, highlight
+the spatial heterogeneity of physical quantities in this geographically complex region,
+and emphasize the importance of higher-resolution models when anticipating individual
+ecosystems’ vulnerability to climate variability and change.
+
+FORE REEF SPUR AND GROOVE GROWTH AND IMPLICATIONS FOR REEF
+PLATFORM EVOLUTION (Abstract ID: 28873 | Poster ID: 386)
+Coral reefs protect islands and coastlines around the world from the effects of waves and
+storms. The spur and groove (SaG) zone is a characteristic geomorphic zone occurring
+on the seaward slope of modern reefs globally. Given the location of SaGs at the seaward
+fringe of modern reef flats, the direction, rates and mechanisms of SaG formation and
+growth are critical to understanding reef platform development throughout the Holocene
+and into the Anthropocene. Our recent research shows the existence of several types of
+SaGs primarily related to wave energy exposure (both intensity and direction). Here we
+investigate the formation and evolution of different types of SaGs in the southern Great
+Barrier Reef (One Tree and Heron Reefs, Australia) and French Polynesia (Moorea).
+A total of 46 short cores (< 70 cm long) were obtained using a pneumatic drill at ten
+locations; drilling was undertaken on top of spurs, into spur walls and into groove floors in
+a planimetric layout across the zone. We present down-core sedimentologic, coralgal assemblage and calibrated 14C AMS age data from SaG features in high, moderate, and low
+wave energy settings. Preliminary data reveal that high energy spur features in Moorea
+are typically younger (maximum age 762-945 cal BP) than lower energy spur features in
+the southern Great Barrier Reef (maximum age 4134-4445 cal BP). Vertical and lateral
+accretion patterns obtained at these three sites also differ; these patterns are currently
+under investigation taking into account the dominant energy regime, regional sea-level
+and reef growth histories.
+
+
+GENTOYPING BY SEQUENCING AS A TOOL FOR UNDERSTANDING GENETIC
+AND GENOTYPIC PATTERNS OF ACROPORA CERVICORNISRESTORATION
+(Abstract ID: 28176)
+
+89
+
+ICRS
+
+13TH INTERNATIONAL CORAL REEF SYMPOSIUM
+
+
+
+CLIMATE CHANGE STUDIES CAN DIRECT RESTORATION TECHNIQUES TO
+ENHANCE CORAL REEF RESILIENCE (Abstract ID: 29508 | Poster ID: 470)
+
+EVALUATING PATTERNS OF GENE FLOW IN THE PRECIOUS CORALSHEMICORALLIUM IMPERIALE/LAAUENSE ACROSS THE PACIFIC OCEAN (Abstract ID:
+28804 | Poster ID: 329)
+
+By year 2100, the carbonate chemistry of the world’s oceans will be profoundly different,
+yet little is known about how the stress of ocean warming and acidification will influence
+coral restoration efforts. At Mote we are currently outplanting thousands of Pseudodiploria clivosa andOrbicella faveolata fragments each year in our efforts to restore Florida’s
+to address which species and genotypes are most resistant to thermal stress combined
+with ocean acidification. We measured changes in physiological performance in a fullfactorial experimental design with three pHT treatments (control 8.01, mid-century 7.79,
+and end of century 7.68), distributed between two temperatures (30°C and 27°C) for two
+genotypes of each species and for two different fragment sizes. After two months, there
+were no significant differences in net calcification due to temperature or pH conditions;
+however, there was a significant effect of species (p > 0.0062) and genotype (p > 0.0076)
+this project greatly improves our ability to predict which coral species and genotypes are
+likely to persist under chronic environmental change and adjust restoration practices to
+maximize reef resilience.
+
+Soft barriers, as are oceanic currents and large distances between populations, have
+been considered biogeographical filters rather than physical barriers. Their sporadically
+permeability shows that dispersal is the main mechanism responsible for biogeographic
+patterns, but their role in the diversification of marine taxa is not completely understood.
+Hemicorallium sp. have broad distributions throughout the Pacific Ocean. Recent studies
+are indistinguishable by molecular and morphological methods. Using three populations
+Ocean (SO), we evaluated the potential role of geographic distance and the Antarctic Circumpolar Current (ACC) in structuring gene flow patterns for these deep-sea
+octocorals. For this purpose, we obtained 75 sequences from three mitochondrial genes
+and used a combination of population genetics and phylogenetics methods. Shared
+no genetic differentiation between SP and SO, however NP had significant genetic differentiation when compared to the other two population; the highest value against the
+distance. These preliminary results suggest that the ACC has no effect in the genetic
+respond to a scenario of isolation by distance.
+
+au
+
+GREEN TURTLE REPRODUCTIVE FAILURE AND MANAGEMENT INTERVENTION AT RAINE ISLAND, GREAT BARRIER REEF (Abstract ID: 30153)
+
+
+Raine Island is the world’s largest green turtle rookery. The future of this population is
+under threat. Mortality of adult female nesters is up to 2000 individuals in a peak season.
+Nesting and hatching failure are also occurring on a grand scale. Nesting success is low,
+around 20%, due to two main causes. Dry sand causes nest collapse and high-density
+nesting results in frequent inter-turtle nesting disturbance. Re-nesting efforts deplete
+stored energy reserves and result in fewer clutches laid in a season. Emergence success
+is low, from 20 – 56%, with embryonic death mostly occurring in early development.
+Tidal inundation at nest level is widespread and is being investigated as a major cause of
+hatching failure. With very low hatching success producing a large decomposing biomass
+there is concern that unsuitable nest environment conditions may also be contributing
+to hatching failure. Trial re-profiling of the nesting area was carried out in 2014. This
+produced a more gradual slope and raised height above inundation level within the
+nesting area. Comparison of trial and control nesting beach areas showed an increase in
+nesting success (47% vs 26%), more even distribution and reduced disturbance of nesting turtles and increased hatchling production within the trial area. Comparison of nests
+marked by dGPS and excavated post-hatching however showed no difference between
+trial and control areas with an average emergence success of 56%. This indicates that
+hatching failure occurs above inundation level and that inundation is not the sole cause
+of hatching failure.
+
+EASTER ISLAND (RAPA NUI) CORALS TRACK 19TH AND 20TH CENTURY
+DECADAL AND LONGER PERIOD VARIANCE IN SE PACIFIC SEA SURFACE
+TEMPERATURES (Abstract ID: 29937)
+The southeastern subtropical Pacific has been implicated in the modulation of the El
+Niño-Southern Oscillation (ENSO) over decadal time scales, yet this region is almost
+entirely devoid of high-resolution paleoclimate archives, making analysis of such climate
+connections difficult. Here we present 3 new coral stable isotopic records from Easter
+found throughout the three cores, but the use of multiple transects, U/Th dating, and
+replication across cores has allowed us to develop credible chronologies and replicated
+isotopic time series. Our primary finding is that Easter Island coral del 18O closely tracks
+Southern Hemisphere and global instrumental SST during the 20th century. We furthermore suggest that the SST rise associated with global anthropogenic forcing may have
+been underestimated in this sector of the ocean. We observe multi-decadal variability
+in the seasonal amplitude of Easter Island coral del 18O throughout the time series.
+We compare the new Easter Island data sets with previously published coral isotopic
+records from the Pacific. All records reveal a similar long-term trend towards warming/
+freshening in modern times, suggestive of a basin-scale increase in the strength of the
+hydrological cycle. Based on frequency domain analysis and comparisons with other
+coral records, we see greatest support for the null hypothesis that basin-wide Pacific
+decadal variability arises from the tropics and is expressed in a symmetrical fashion to
+the north and south.
+
+
+
+VOICE OF THE SEA: USING TELEVISION TO TEACH CORAL REEF SCIENCE
+AND PROMOTE STEM CAREERS ACROSS THE PACIFIC (Abstract ID: 29621)
+
+CORAL SKELETAL Δ15N RECORDS PROVIDE A HISTORICAL PERSPECTIVE ON
+COASTAL CORAL REEFS EUTROPHICATION (Abstract ID: 29131)
+
+Voice of the Sea is an innovative 30-minute, weekly TV show broadcast throughout the
+Pacific Region that highlights ocean research and careers in a local context, incorporating traditional knowledge into the STEM cannon and striving to create interest in ocean
+science research and careers. Voice of the Sea provides a venue for coral reef researchers to share their work with local audiences—those most affected by and with potentially
+the most to gain from increased understanding of current ocean and climate research
+in their geographic region. The goal of Voice of the Sea is for viewers to become more
+science, technology, engineering, and mathematically (STEM) literate in the context of
+ocean and climate issues. Preliminary research indicates significant increases in viewer
+interest and understanding of episode content across age groups, with implications for
+formal and informal communication of science topics. We will share excerpts of Voice
+of the Sea coral reef research episodes and audience feedback.
+
+Human-driven eutrophication is thought to be a major threat to coastal coral reefs worldwide. Yet, we only have a limited understanding of the causes and the consequences
+of this problem, preventing the application of adequate mitigation policies. Indeed, we
+lack crucial environmental baselines to identify the sources of nutrients and understand
+how these nutrients might have changed the coral reef ecosystem over time. The natural
+abundance of nitrogen isotopes in coral skeleton-bound organic matter (CS - δ15N) may
+be a promising tool to identify environmental nitrogen (N) sources and to track their
+changes over time. Until now, such studies have been prevented by the lack of adequate
+methodology, mainly due to the low N content in coral skeleton. A recent study provided
+a sensitive and precise method for analysing CS- δ15N (Wang et al., 2015), paving the
+way for a new field of investigation. To further explore the ability of the CS - δ15N to
+track human-driven eutrophication we have generated two annually-resolved CS - δ15N
+records from cores collected in historically eutrophic places: Guam USA, (56 years) and
+90
+
+ABSTRACT BOOK
+
+ICRS
+
+Hong Kong SAR (150 years). These two cases revealed that the CS - δ15N recorded
+significant changes in the N sources on decadal to centennial scales, in response to
+increasing human activities. The two records showed that sewage-derived N has been
+present in the environment for more than 50 years. Although these records come from
+hand-picked locations, they suggest that some coastal reefs worldwide could have been
+under eutrophication stress for half a century.
+
+middle of the water column during the day but more variability and no distinct pattern
+within the water column at night. These results indicate clear spatial variability, not just
+patchiness of zooplankton, and suggest further research is needed for plankton dynamics
+on coral reefs to better understand heterotrophy as a recovery mechanism for bleaching
+corals. As zooplankton are a critical source of energy to corals, and many other species
+in coral reef ecosystems, it is important to understand the dynamics of zooplankton on
+coral reefs to aid in their recovery from potentially negative consequences of a changing
+climate.
+
+
+INFLUENCE OF CORAL REEF STRUCTURE ON BEHAVIOR OF CARIBBEAN
+HERBIVOROUS FISHES (Abstract ID: 29890 | Poster ID: 585)
+
+
+Grazing activity of herbivorous fishes are essential for resilience of coral reefs. Their
+specific feeding preferences on turf, crustose and standing fleshy algae complement each
+other and provide an effective overall control on algal assemblages of coral reefs. However, it’s been shown that grazing activity of herbivores can be influenced by resource
+availability and habitat structure. In this study we evaluated feeding habits and behavior
+of herbivorous fishes in two distinct Florida reefs, Molasses reef and Conch reef. We
+characterized fish communities of both sites using 30x2 m lineal transects (n=20) and
+surveyed benthic community using photo-quadrats (n=200/site). To study fish behavior,
+we followed target species for 10 minutes (n=156/reef) and recorded interactions and
+grazing activity of eight parrotfishes. Molasses is a high relief reef with higher density
+and biomass of herbivorous fish as well as greater abundance of crustose algae and
+turf-forming species. Conch has lower rugosity with half of the benthos covered by turf
+algae associated with sediment (TAS) and other 30% dominated by brown upright algae.
+We found large variability species feeding preferences between both sites. At Conch
+approximately 50% of fish bites targeted TAS while at Molasses this benthic group was
+contacted less that 20% of the time. Contrarily, turf, crustose algae and corals were
+greatly more consumed at Molasses apparently caused of higher resource availability.
+We found that parrotfish interact more often at Molasses but and spend more time
+camouflaging at Conch reef. We discussed the implication of these results for coral reef
+functioning and management strategies.
+
+HERITABILITY AND GENOMIC BASIS FOR VARIATION IN THERMAL TOLERANCE OF THE CORAL HOLOBIONT IN ORBICELLA FAVEOLATA(Abstract ID:
+29877 | Poster ID: 29)
+Sea surface temperatures are predicted to rise 1-2C by the end of the century, and
+thermally sensitive organisms like reef-building corals will require substantial adaptive
+responses in order to persist well into the future. Genetic variation that might support
+adaptive responses has been documented in larval stages of some corals, but the contribution of genetic variation of adult corals and its functional basis remains unclear. In this
+study, we focus on mechanisms that may enable long-term adaptation by investigating
+heritable variation in thermal tolerance and its genomic basis in Orbicella faveolata, a
+dominant reef-builder in the Caribbean. Thermal stress experiments were conducted
+at the Smithsonian Tropical Research Institute in Bocas del Toro, Panama, using coral
+fragments collected from natural populations. Bleaching responses were quantified
+and combined with genome-wide SNP genotyping to estimate heritability and test for
+associations between thermal tolerance and genotypes. Using the linkage map and draft
+genome assembly for this species, we searched for genomic regions underlying variation
+within more thermally tolerant phenotypes. We profiled transcriptional responses in
+the same corals to evaluate whether genomic regions associated with tolerance include
+genes differentially expressed in heat-tolerant and susceptible genotypes. Integrating
+genomic and transcriptomic data with quantitative genetic analysis provides a new
+perspective on the mechanistic basis for thermal tolerance phenotypes and the potential
+for adaptation to rising ocean temperatures.
+
+
+
+FACTORS CONTROLLING SHORELINE CHANGES IN THE NORTHERN TUAMOTU REEF ISLANDS, FRENCH POLYNESIA (Abstract ID: 28598)
+This study provides new data on shoreline changes on 111 reef islands of 4 atolls of the
+Tuamotu archipelago, French Polynesia (Rangiroa, Tikehau, Takaroa and Mataiva), over
+a 33- to 52-year period characterised by rising sea levels (+2.5 to 2.9 mm y-1). Results
+show that 75.7% of the islands were in stable condition while 16.8% expanded and 7.5%
+contracted. Accretion occurred across all island sizes and atoll sides, with the highest
+rates (>10%) occurring on highly modified islands as a result of land reclamation and
+of the disruption of sediment transport by causeways and transversal coastal structures.
+Eighty-two per cent of the islands that have decreased in area are less than 5 ha; most
+of them are undisturbed by human activities and located on the windward side of atolls.
+Twelve per cent of the islands have migrated, either lagoonward or oceanward. Three
+factors contributing to shoreline change are investigated: human factors, sediment supply,
+and tropical and extra-tropical cyclones. Although they erode islands (with shoreline retreat exceeding 30m in places), cyclones also increase their elevation; after such events,
+beach resilience occurs over a 10 to 20-year period. The good state and high resilience
+of coral reefs after destruction, mainly by cyclones, suggests that natural reef islands may
+continue to be resilient in the next decades. On the contrary, most developed islands
+have lost their capacity to grow both outwards and upwards. Their situation is therefore
+concerning in the face of accelerated sea-level rise.
+
+TWO YEARS AND COUNTING: MONITORING AND DOCUMENTING THE ONGOING GLOBAL CORAL BLEACHING EVENT (2014-2016 AND BEYOND) (Abstract
+ID: 28819)
+
+
+Regional- to global-scale coral bleaching events have been occurring for more than 30
+years. In that time, bleaching has worsened as global ocean temperatures warmed. Unlike the bleaching events in 1983 and 1998, strong El Niüo/Southern Oscillation (ENSO)
+conditions are no longer needed to cause widespread bleaching but certainly can exacerbate bleaching. The current global bleaching event began in Guam and the Northern
+Mariana Islands in mid-2014 (following 2013 bleaching there). Thermal stress brought
+bleaching back to previously impacted reefs and reached areas largely missed by past
+Florida) or prolonged stress that may last over a year (Kiribati). With the strong 2015-16
+ENSO, bleaching may continue through much of 2016 in the Pacific and Indian Oceans
+and return to the Caribbean. It may even continue into 2017, and will likely spread
+even more broadly if a strong La Niüa develops. Unfortunately, some key international
+monitoring efforts (Global Coral Reef Monitoring Network, ReefBase) are no longer fully
+functional. This places greater pressure on other international (Reef Check, XL Catlin
+
+SPATIAL COMPARISONS OF ZOOPLANKTON ABUNDANCE ON CORAL REEFS
+IN BOCAS DEL TORO, PANAMA (Abstract ID: 29686 | Poster ID: 358)
+Climate change is increasing the decline of coral reef health as rising temperatures result
+in coral bleaching, often leading to death. Increased heterotrophy has recently been
+identified as a potential recovery mechanism for certain corals. This study investigates
+the abundance of zooplankton communities over a large spatial scale (km) across reefs
+in Bocas del Toro, Panama, to further investigate how heterotrophy may aid in recovery
+from bleaching. Zooplankton were collected at three depths in both offshore and nearshore reefs, using tows during the day and traps set on the substrate at night to include
+vertical migration. Nearshore reefs show higher total abundance of zooplankton in
+comparison to offshore reefs throughout the entire water column. During the day, abundance differs by less than two-fold, whereas at night abundance differs by over an order
+of magnitude. Additionally, both sites show increased zooplankton abundance in the
+
+91
+
+ICRS
+
+13TH INTERNATIONAL CORAL REEF SYMPOSIUM
+
+with decreasing hydrodynamics. Additionally, the negatively correlated number of operculinid chambers apparently changes along the hydrodynamic gradient. Both characters
+were used as the most significant metric characters in the evolution of Heterostegina.
+conditions. Therefore, paleogeographical differences leading to subspecies together
+with transport, reworking and time-averaging possibly lead to erroneous interpretations
+of evolutionary lineages. Using growth-independent and growth-invariant characters
+describing the internal test morphology completely allows a much better interpretation
+of evolutionary tendencies separated from paleogeographic diversification.
+
+event. NOAA’s Coral Reef Watch is coordinating global data collection and analysis of
+this event to make sure key scientific information is not lost. This presentation discusses
+the latest satellite and field data on the ongoing global bleaching event and its impacts
+on coral reefs worldwide.
+
+SPATIAL AND HOST-GENETIC FORCES STRUCTURE THE MICROBIOME OF
+THE SPONGE CLIONA DELITRIX (Abstract ID: 29669)
+Sponges are important members of benthic communities throughout the world. They
+host diverse symbiont communities with compositions that are largely species-specific
+and structured by host evolutionary history. However, little is known about how microbiomes vary among spatially distributed populations within a species. In the current study,
+relation to genetic differentiation and habitat location. Sponge samples from four distinct
+populations in the Caribbean were collected, and 16S rRNA amplicons were Illuminabased sequenced as part of the Earth Microbiome Project (EMP). Our analysis revealed
+that microbial diversity was consistent among all locations and populations, while both
